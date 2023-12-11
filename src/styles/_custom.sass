@@ -1,19 +1,215 @@
-.banner-principal-decorativo
-  &-1
-    animation: float1 3.5s ease-in-out infinite alternate
-    position: absolute
-    top: 40%
-    right: 50%
-  &-2
-    animation: float1 2.8s ease-in-out infinite alternate
-    position: absolute
-    top: 51%
-    right: 30%
+.color-secundario
+  background-color: #DBFAFA !important  
 
+.color-acento-contenido
+  background-color: #FFE8DE !important
+  border: 10px solid white
+.img-a 
+  display: block
+  margin: auto
 
-@keyframes float1
+.img-t
+  width: auto
+  height: auto       
+
+.BorTit
+  border-left: 5px solid #EA526F
+  padding: 6px 0px 6px 10px  
+
+.bg-color-1
+  background-color: #DBFAFA
+
+.borde-left
+  border-left: 3px solid #25CED1
+
+.bloque-texto-b.color-primario::before 
+    background-color: #FFE8DE !important
+.color-primario
+  background-color: white !important
+
+.slyder-a__bullets
+  bottom: 0px !important
+
+.slyder-a__bullets__item--active
+  background-color: #FF8A5B !important
+
+.slyder-a__bullets__item:hover
+  border-color: #FF8A5B !important
+
+// .tarjeta--gris
+//   background-color: #ff895b21 !important
+
+.linea-tiempo-d.color-primario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
+  background-color: #FF895B48 !important
+
+.linea-tiempo-d__item__content__title
+  background-color:   #F6F6F6 !important
+
+.linea-tiempo-d__item__content__slot    
+  background-color: #FF895B48 !important
+.linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title  
+  background-color: #FF895B48 !important
+  
+.img-infografica.color-acento-contenido .img-infografica__item__dot::before
+  background-color: #0075A4 !important
+
+.img-infografica.color-acento-contenido .img-infografica__item__dot::after
+  background-color:  white !important
+
+.tarjeta--gris-bg-1
+  background-color: #FAFAFA  
+
+.linea-tiempo-c__header__item--active .linea-tiempo-c__header__item__dot
+  border-color: #471E89 !important
+
+.linea-tiempo-c__header__item--active .linea-tiempo-c__header__item__dot::after   
+  background-color: #471E89 !important
+
+.linea-tiempo-c__header__item--active .linea-tiempo-c__header__item__line-container::before  
+  background-color: #471E89 !important  
+
+.linea-tiempo-c__header__item--before .linea-tiempo-c__header__item__line-container::after
+  background-color: #471E89 !important  
+
+.linea-tiempo-c__header__item--before .linea-tiempo-c__header__item__dot    
+  border-color: #471E89 !important    
+
+.linea-tiempo-c__header__item--before .linea-tiempo-c__header__item__line-container::before  
+  background-color: #471E89 !important    
+
+.p-left
+  margin-left: 2rem  
+
+.bg-table
+  background-color: #FF8A5B !important
+
+.text-color
+  color: #12263F !important
+
+.quite-pa
+  padding-left: 1em !important
+
+.modal-a__content
+  max-width: 400px !important
+
+.banner-interno__titulo__icono i
+  color: white !important
+
+.tarjeta--azul-1
+  background-color: #DBFAFA !important
+
+.tarjeta--azul
+  background-color: #F6F6F6 !important  
+
+.text-in
+  -webkit-animation: text-in 0.7s cubic-bezier(0.215, 0.61, 0.355, 1) both
+  animation: text-in 0.7s cubic-bezier(0.215, 0.61, 0.355, 1) both
+
+@-webkit-keyframes text-in
   0%
-    transform: translateY(20px)
+    letter-spacing: -0.5em
+    opacity: 0
+
+  40%
+    opacity: 0.6
 
   100%
-    transform: translateY(0px)
+    opacity: 1
+
+@keyframes text-in
+  0%
+    letter-spacing: -0.5em
+    opacity: 0
+
+  40%
+    opacity: 0.6
+
+  100%
+    opacity: 1
+
+.yoyo
+  animation-name: yoyo
+  animation-duration: 2.0s
+  animation-iteration-count: infinite
+  -o-animation-direction: alternate
+
+
+@keyframes yoyo
+  0%
+    transform: translatey(0px)    
+  50%
+    transform: translatey(-10px)
+  100%
+    transform: translatey(0px)   
+
+.yoyo:hover
+  animation-duration: 0s
+
+.yoyo-1
+  animation-name: yoyo-1
+  animation-duration: 2.0s
+  animation-iteration-count: infinite
+  -o-animation-direction: alternate
+
+
+@keyframes yoyo-1
+  0%
+    transform: translatey(-10px)    
+  50%
+    transform: translatey(0px)
+  100%
+    transform: translatey(-10px) 
+
+.yoyo-1:hover
+  animation-duration: 0s
+
+.imagen
+  cursor: pointer
+.info
+  position: absolute
+  overflow: hidden
+  max-width: 292px
+  min-width: 200px
+  background-color: #DBFAFA
+  opacity: 0
+  transition: opacity .5s
+  padding: 1rem
+  border-radius: 0px 0px 15px 15px
+  border: 3px solid white
+  z-index: 4000
+
+.imagen:hover .info
+  opacity: 10
+
+.info-1
+  position: absolute
+  overflow: hidden
+  max-width: 292px
+  min-width: 200px
+  background-color: #FFE8DE
+  opacity: 0
+  transition: opacity .5s
+  padding: 1rem
+  border-radius: 0px 0px 15px 15px
+  border: 3px solid white
+  z-index: 4000
+
+.imagen:hover .info-1
+  opacity: 10
+
+.info-2
+  position: absolute
+  overflow: hidden
+  max-width: 292px
+  min-width: 200px
+  background-color: #FCE5E9
+  opacity: 0
+  transition: opacity .5s
+  padding: 1rem
+  border-radius: 0px 0px 15px 15px
+  border: 3px solid white
+  z-index: 4000
+
+.imagen:hover .info-2
+  opacity: 10
+
