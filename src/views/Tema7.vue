@@ -6,38 +6,41 @@
       .titulo-principal__numero
         span.numero 7
       h1.text-in Sistemas de gestión de calidad
+    .tarjeta.row.mb-5
+      .tarjeta.bg7.p-5.mb-1
+        .row.ml-1-cus
+          .col-12
+            p.mb-4 El sistema de gestión profundizado en la calidad plantea herramientas que permite a las organizaciones planear, implementar, controlar y realizar seguimientos a las actividades de la organización empresarial a través de estándares de calidad, lo cual dicha información proporciona desarrolla indicadores de alerta o normalidad de los procesos.
+            
+            .row.justify-content-center.align-items-center.mb-5
+              .col-lg-6(data-aos="fade-left")
 
-    p.mb-4 El sistema de gestión profundizado en la calidad plantea herramientas que permite a las organizaciones planear, implementar, controlar y realizar seguimientos a las actividades de la organización empresarial a través de estándares de calidad, lo cual dicha información proporciona desarrolla indicadores de alerta o normalidad de los procesos.
-    
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-6(data-aos="fade-left")
+                p.mb-4 Los objetivos de aprendizaje con que se desarrollan los sistemas de gestión de calidad son los siguientes:
 
-        p.mb-4 Los objetivos de aprendizaje con que se desarrollan los sistemas de gestión de calidad son los siguientes:
+                ol.lista-ol--cuadro
+                  li 
+                    .lista-ol--cuadro__vineta
+                      span 1
+                    |   Aplicar herramientas adecuadas para la evaluación de riesgos.
+                  li 
+                    .lista-ol--cuadro__vineta
+                      span 2
+                    | Participar en evaluaciones de riesgo.
+                  li 
+                    .lista-ol--cuadro__vineta
+                      span 3
+                    | Conocer las diferentes categorías de riesgo.
+                  li 
+                    .lista-ol--cuadro__vineta
+                      span 4
+                    |  Conocer e interpretar la terminología y requisitos legales en la normatividad.  
+                  li 
+                    .lista-ol--cuadro__vineta
+                      span 5
+                    | Dicha información está diseñada para aprender a evaluar riesgos que se presenten en los diversos puntos de los puestos de trabajo de la empresa.
 
-        ol.lista-ol--cuadro
-          li 
-            .lista-ol--cuadro__vineta
-              span 1
-            |   Aplicar herramientas adecuadas para la evaluación de riesgos.
-          li 
-            .lista-ol--cuadro__vineta
-              span 2
-            | Participar en evaluaciones de riesgo.
-          li 
-            .lista-ol--cuadro__vineta
-              span 3
-            | Conocer las diferentes categorías de riesgo.
-          li 
-            .lista-ol--cuadro__vineta
-              span 4
-            |  Conocer e interpretar la terminología y requisitos legales en la normatividad.  
-          li 
-            .lista-ol--cuadro__vineta
-              span 5
-            | Dicha información está diseñada para aprender a evaluar riesgos que se presenten en los diversos puntos de los puestos de trabajo de la empresa.
-
-      .col-lg-6
-        img.img-t.img-a.my-2(src='@/assets/curso/Tema7/1.png', alt='') 
+              .col-lg-6
+                img.img-t.img-a.my-2(src='@/assets/curso/Tema7/1.png', alt='') 
 
 
     .row.justify-content-center.align-items-stretch.mt-5
@@ -83,12 +86,12 @@
             | Alianzas estratégicas con proveedores.
       
 
-    .row.mt-5
-      .col-4.d-none.d-lg-block
-        img.img-t.img-a(src='@/assets/curso/Tema7/3.png', alt='')
-
-
-    p.mb-4 Desarrollando la gestión de calidad en la salud y seguridad en el trabajo, se fundamenta desde la mejora continua planteando políticas organizacionales, enfocadas a la planeación organizacional, donde se desarrollan implementaciones de la aplicabilidad de los fundamentos inicialmente proyectados, para proceder a unas inspecciones y evaluaciones de cumplimiento e iniciar a controlar los puntos que se encuentran funcionando de manera óptima, sin descuidar los riesgos que afecten la seguridad y salud de las personas que conforman el equipo de trabajo.
+   
+    .mt-5.d-flex
+      .d-flex.flex-wrap.align-items-center.pe-4
+        h3.col.px-4.mb-0.text-white.bg-img-blue(style='width: 450px;') Sistemas de gestión de calidad en la salud
+        img.col-lg.d-flex(src='@/assets/curso/temas/icon-bot.svg').icon-img-blue
+    p.my-5 Desarrollando la gestión de calidad en la salud y seguridad en el trabajo, se fundamenta desde la mejora continua planteando políticas organizacionales, enfocadas a la planeación organizacional, donde se desarrollan implementaciones de la aplicabilidad de los fundamentos inicialmente proyectados, para proceder a unas inspecciones y evaluaciones de cumplimiento e iniciar a controlar los puntos que se encuentran funcionando de manera óptima, sin descuidar los riesgos que afecten la seguridad y salud de las personas que conforman el equipo de trabajo.
     p Se representan por las siguientes etapas:
 
     .row.justify-content-center.align-items-stretch.mt-5
@@ -126,7 +129,7 @@
 
     .tarjeta.tarjeta--gris-bg-1.p-4.mt-5
       LineaTiempoC
-        .row.justify-content-center.align-items-center(titulo="Elemento 1")
+        .row.justify-content-center.align-items-center(titulo="Medicina preventiva y del trabajo")
           .col-md-3
             figure
               img(src='@/assets/curso/Tema7/9.png', alt='Medicina preventiva y del trabajo')      
@@ -135,29 +138,29 @@
             p.mb-3 Actividades fundamentadas a la calidad y seguridad de la vida de los empleados a través de mantenimientos predictivos, preventivos y correctivos de los equipos que se encuentren dentro de los activos de la empresa.
             p Se genera una relación entre equipos y maquinaria, donde se generan informes de salud y seguridad de los empleados que manipulan dichas maquinarias optimizando los recursos de las empresas, pero también en el autocuidado del personal operativo.
     
-        .row.justify-content-center.align-items-center(titulo="Elemento 2")
+        .row.justify-content-center.align-items-center(titulo="Comité Paritario de Salud Ocupacional (COPASO)")
           .col-md-3
             figure
-              img(src='@/assets/curso/Tema7/10.png', alt='•	Comité Paritario de Salud Ocupacional (COPASO)')      
+              img(src='@/assets/curso/Tema7/10.png', alt='Comité Paritario de Salud Ocupacional (COPASO)')      
           .col-md-7.mb-4.mb-md-0
             p #[b Comité Paritario de Salud Ocupacional (COPASO)]
             p “Resolución 2013 de 1986, en el Decreto 614 de 1984, y en el Decreto 1295 de 1994”. Donde se eligen un grupo de personas de la misma compañía en coordinación del empleador y sus empleados, este equipo de trabajo plantea, ejecuta y evalúa promover las leyes y normas que reglamentan la salud ocupacional en las organizaciones empresariales y el control de ética y desarrollo de clima laboral, desde las problemáticas comunes que se generan en el desarrollo diario de la vida laboral de la empresa. 
             p Los empleados y empleadores deben participar de manera activa del Comité Paritario, proponiendo la vigilancia y control del desarrollo de las actividades, asegurando el cumplimiento de la empresa al trabajar en pro de la higiene y seguridad industrial, cumpliendo con las normas vigentes y su respectiva divulgación a los integrantes del equipo de trabajo.
-        .row.justify-content-center.align-items-center(titulo="Elemento 3")
+        .row.justify-content-center.align-items-center(titulo="Programa de salud ocupacional")
           .col-md-3
             figure
               img(src='@/assets/curso/Tema7/11.png', alt='Programa de salud ocupacional')      
           .col-md-7.mb-4.mb-md-0
             p #[b Programa de salud ocupacional] 
             p Este se conforma por la planeación, organización, ejecución y evaluación; actividades que desarrolla la empresa para su actividad económica, para la conservación y mejora de las condiciones de salud individual y colectiva de los trabajadores en sus ocupaciones.
-        .row.justify-content-center.align-items-center(titulo="Elemento 4")
+        .row.justify-content-center.align-items-center(titulo="ARL")
           .col-md-3
             figure
               img(src='@/assets/curso/Tema7/13.png', alt='ARL')      
           .col-md-7.mb-4.mb-md-0
             p #[b ARL]
             p Se define como las entidades de carácter público o privado, además de las normas que velan por la prevención, protección y atención de los trabajadores ante las enfermedades profesionales o accidentes que podrían ocurrir dentro del ambiente laboral. 
-        .row.justify-content-center.align-items-center(titulo="Elemento 5")
+        .row.justify-content-center.align-items-center(titulo="Factor de riesgo")
           .col-md-3
             figure
               img(src='@/assets/ilustraciones/img40.png', alt='Factor de riesgo')      
@@ -180,7 +183,7 @@
 
 
                     
-        .row.justify-content-center.align-items-center(titulo="Elemento 6")
+        .row.justify-content-center.align-items-center(titulo="Higiene Industrial")
           .col-md-3
             figure
               img(src='@/assets/curso/Tema7/24.png', alt='Higiene Industrial')      
@@ -188,7 +191,7 @@
             p #[b Higiene industrial]
             p Se persevera a mantener unos objetivos definidos para prevenir enfermedades profesionales y tener el mínimo impacto en el medio ambiente, en actuación de los agentes contaminantes medioambientales y sociales a la salud de los trabajadores, en consecuencia, al desarrollo productivo de las compañías.
 
-        .row.justify-content-center.align-items-center(titulo="Elemento 7")
+        .row.justify-content-center.align-items-center(titulo="Seguridad Industrial")
           .col-md-3
             figure
               img(src='@/assets/curso/Tema7/25.png', alt='Seguridad Industrial')      
@@ -196,7 +199,7 @@
             p #[b Seguridad industrial]
             p Normas técnicas que definen objetivos para proteger la vida, salud e integridad física y mental de las personas que componen el equipo de trabajo, proponiendo las mejores condiciones de productividad entre las condiciones de los trabajadores y los resultados planteados. 
 
-        .row.justify-content-center.align-items-center(titulo="Elemento 8")
+        .row.justify-content-center.align-items-center(titulo="Ergonomía")
           .col-md-3
             figure
               img(src='@/assets/curso/Tema7/26.png', alt='Ergonomía')      
@@ -204,7 +207,7 @@
             p #[b Ergonomía]
             p La ergonomía desarrolla esquemas de medición y posición de los trabajadores en los diversos puestos de trabajo, considerando la adaptación y evaluando el porcentaje de fatiga física que este pueda desarrollar en sus actividades diarias de trabajo. 
 
-        .row.justify-content-center.align-items-center(titulo="Elemento 9")
+        .row.justify-content-center.align-items-center(titulo="Riesgo profesional")
           .col-md-3
             figure
               img(src='@/assets/curso/Tema7/27.png', alt='Riesgo profesional')      
@@ -212,7 +215,7 @@
             p #[b Riesgo profesional]
             p Son evidencias que ponen en riesgo a un trabajador en una actividad de alta vulnerabilidad por la actividad a desarrollar a diario en su ámbito profesional. 
 
-        .row.justify-content-center.align-items-center(titulo="Elemento 10")
+        .row.justify-content-center.align-items-center(titulo="Señalización de evacuación")
           .col-md-3
             figure
               img(src='@/assets/curso/Tema7/28.png', alt='Señalización de evacuación')      
@@ -234,7 +237,7 @@
                 | Señalización de motivación.
 
 
-        .row.justify-content-center.align-items-center(titulo="Elemento 11")
+        .row.justify-content-center.align-items-center(titulo="Extintores")
           .col-md-3
             figure
               img(src='@/assets/curso/Tema7/29.png', alt='Extintores')      
@@ -254,7 +257,7 @@
                 i.lista-ul__vineta
                 | Tipo A B Extintores de dióxido de carbono
 
-        .row.justify-content-center.align-items-center(titulo="Elemento 12")
+        .row.justify-content-center.align-items-center(titulo="Evacuación")
           .col-md-3
             figure
               img(src='@/assets/curso/Tema7/30.png', alt='Evacuación')      

@@ -26,7 +26,7 @@
       .row.justify-content-center.align-items-center(data-aos="left")
         .col-lg-8
           .BorTit Figura 7. Modelos de sistemas de producción.
-          img.img-t.img-a.mt-4(src='@/assets/curso/Tema3/1.svg', alt='')   
+          img.img-t.img-a.mt-4(src='@/assets/curso/Tema3/1.svg', alt='Se exponen dos modelos denominados Realidad y Abstracción, en el primero se incluyen Problemas Datos Modelos, de los cuales se subdividen 4 términos que se ubican en el lado derecho de Abstracción y son Formulación, Manipulación, Evaluación, Pronostico, Finalmente termina en el modelo realidad con Verificación.')   
 
 
     Separador

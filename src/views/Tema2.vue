@@ -19,7 +19,7 @@
     .row.justify-content-center.align-items-center.mt-5.mb-5
       .col-lg-8
         .BorTit.mt-5 Figura 5. Estructura del Sistema de Producción.
-        img.img-t.img-a.mt-4(src='@/assets/curso/Tema2/1.svg', alt='') 
+        img.img-t.img-a.mt-4(src='@/assets/curso/Tema2/1.svg', alt='Se expone la palabra sub- producto de donde se desprenden cinco términos que lo rodean:   Sub- Inversión, Sub - Información, Sub - Recursos Humanos, Sub - Dirección, Sub - Comercial') 
 
 
     .tarjeta.bg6.py-4.mb-5
@@ -61,7 +61,7 @@
       .row.justify-content-center.align-items-center(data-aos="left")
         .col-lg-8
           .BorTit Figura 6. Estructura del Sistema de Producción.
-          img.img-t.img-a.mt-4(src='@/assets/curso/Tema2/4.svg', alt='')
+          img.img-t.img-a.mt-4(src='@/assets/curso/Tema2/4.svg', alt='Clasificación de los sistemas de producción que se convierten en factores del mismo sistema')
 
     
 </template>

@@ -9,8 +9,8 @@
     .row.justify-content-center.align-items-center.mt-5(data-aos="fade-left")
       .col-12.col-md-8
         .row.cajon.color-secundario.p-4.mt-8
-          p.mb-3 <b>Al hablar de sistemas de producción, resulta fundamental analizar los diversos factores que intervienen en la transformación de la materia prima en productos terminados. Entre estos factores se destacan el talento humano, con sus conocimientos adquiridos, el estilo de administración o gestión de los procesos, los procedimientos, el uso de herramientas como maquinaria y materiales, así como las tecnologías empleadas.</b>
-          p <b>Consultar la siguiente imagen que expone parte de la temática a tratar.</b>
+          p.mb-3 #[b Al hablar de sistemas de producción, resulta fundamental analizar los diversos factores que intervienen en la transformación de la materia prima en productos terminados. Entre estos factores se destacan el talento humano, con sus conocimientos adquiridos, el estilo de administración o gestión de los procesos, los procedimientos, el uso de herramientas como maquinaria y materiales, así como las tecnologías empleadas. ]
+          p #[b Consultar la siguiente imagen que expone parte de la temática a tratar. ]
   
       .col-12.col-md-4.my-2(data-aos="fade-left")
         img.img-t.img-a(src='@/assets/curso/Tema1/1.png', alt='')   
@@ -18,8 +18,8 @@
 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-8
-        .BorTit.mt-5  <b>Figura 1. Desarrollo</b> 
-        img.img-t.img-a.mt-4(src='@/assets/curso/Tema1/2.svg', alt='') 
+        .BorTit.mt-5  #[b Figura 1. Desarrollo ] 
+        img.img-t.img-a.mt-4(src='@/assets/curso/Tema1/2.svg', alt='Desarrollo') 
 
 
     Separador
@@ -45,7 +45,7 @@
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-8
         .BorTit Figura 2. Producción.
-        img.img-t.img-a.mt-4(src='@/assets/curso/Tema1/3.svg', alt='' data-aos="slide-left")  
+        img.img-t.img-a.mt-4(src='@/assets/curso/Tema1/3.svg', alt='Producción' data-aos="slide-left")  
 
     Separador
 
@@ -68,7 +68,7 @@
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-8
         .BorTit.mt-5 Figura 3. Esquema de producción.
-        img.img-t.img-a.mt-4(src='@/assets/curso/Tema1/5.svg', alt='')  
+        img.img-t.img-a.mt-4(src='@/assets/curso/Tema1/5.svg', alt='En la imagen se describe tres sectores de la economía que llevan al proceso de producción, en el primer sector denominado Primario se ubica la agricultura o industria extractiva, el siguiente es el sector Secundario que hace referencia a la industria manufacturera, para finalmente llegar al sector Terciario en donde se ubica el comercio, servicios públicos, transporte Créditos, Turismo entre otros')  
     
     Separador
 
@@ -88,7 +88,7 @@
       .row.justify-content-center.align-items-center.mt-5(data-aos="left")
         .col-lg-8
           .BorTit Figura 4. Objetivo de la producción. 
-          img.img-t.img-a.mt-4(src='@/assets/curso/Tema1/6.svg', alt='')  
+          img.img-t.img-a.mt-4(src='@/assets/curso/Tema1/6.svg', alt='Se expone un gráfico de procesos,  en donde existe una entrada de insumos, terrenos, mano de obra, capital, materiales y equipos  de allí pasa a Transformación que es un proceso de  conversión, para finalmente ingresar a la estación de salida donde se obtiene el producto final.')  
         
 </template>
 

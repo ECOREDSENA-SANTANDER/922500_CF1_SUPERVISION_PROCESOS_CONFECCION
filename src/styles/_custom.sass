@@ -80,16 +80,15 @@
 // .tarjeta--gris
 //   background-color: #ff895b21 !important
 
-.linea-tiempo-d.color-primario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
-  background-color: #FF895B48 !important
+.linea-tiempo-d.color-primario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number,
+.linea-tiempo-d.color-primario .linea-tiempo-d__item--selected .linea-tiempo-d__item__content
 
-.linea-tiempo-d__item__content__title
-  background-color:   #F6F6F6 !important
+  background-color: #DDA9B3 !important
+  border-radius: 10px;
 
-.linea-tiempo-d__item__content__slot    
-  background-color: #FF895B48 !important
-.linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title  
-  background-color: #FF895B48 !important
+.linea-tiempo-d__item__content.tarjeta.tarjeta--gris
+  background-color: #F5E6E9 !important
+  border-radius: 10px;
   
 .img-infografica.color-acento-contenido .img-infografica__item__dot::before
   background-color: #0075A4 !important
@@ -284,12 +283,17 @@
 
 .tarjeta-color-primera 
   background-color: #CDFAFB !important
+  border-radius: 12px !important
 
 .tarjeta-color-segunda 
   background-color: #0CE6EA !important
+  border-radius: 12px !important
+
 
 .tarjeta-color-tercera 
   background-color: #CDFAFB !important
+  border-radius: 12px !important
+
 
 .tarjeta-color-cuarta 
   background-color: #FFFFFF !important
@@ -303,8 +307,7 @@
 .cuadro-gestion
   background-color: #DBFAFA !important
 
-.linea-tiempo-d__item__content.tarjeta.tarjeta--gris
-  background-color: #DDA9B3 !important
+
 
 .acordion__activo
   background-color: #ABF6F8 !important
@@ -335,6 +338,7 @@
 
 .img-infografica.color-acento-contenido .img-infografica__item__dot::before 
   background-color: #FFFFFF !important;
+  border: 2px solid #1448D3;
 
 .bg1 
   background-image: url('../assets/curso/Tema4/5.svg');
@@ -356,7 +360,23 @@
 .bg6 
   background-color: #F5E6E9 !important
   margin: auto -5em 0
-
+.bg7 
+  background-color: #FBFFFF !important
+  margin: auto -5em 0
+.lista-ol--cuadro__vineta
+  background-color: #D4909C !important; 
+  color: #12263F
+  font-size: 16px
+  font-weight: 700
+.bg-img-blue
+    background-color: #9F0925; 
+    border-radius: 20px 
+    padding: 7px
+    text-align: right
+.icon-img-blue
+   max-width: 40px; 
+   left: -92%; 
+   position: relative
 .ml-1-cus
   margin: 0 5em 0 5em
 .medida-tarjeta

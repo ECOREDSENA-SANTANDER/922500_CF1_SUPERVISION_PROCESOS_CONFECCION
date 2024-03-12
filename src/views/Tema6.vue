@@ -17,7 +17,7 @@
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-10
         .BorTit Figura 10. Orden de producción camiseta tipo polo dama. Fuente: SENA 2021, Fernellis Mauricio Echeverry.
-        img.img-t.img-a.mt-4(src='@/assets/curso/Tema6/2.svg', alt='') 
+        img.img-t.img-a.mt-4(src='@/assets/curso/Tema6/2.svg', alt='Orden de producción camiseta tipo polo dama. Fuente: SENA 2021, Fernellis Mauricio Echeverry.') 
 
     
 
@@ -25,7 +25,7 @@
     .row 
       .col-10.m-auto
         p.mt-5 Para profundizar en este tema se recomienda descargar y visitar los siguientes archivos
-        .tarjeta.tarjeta-color-primera.p-3.mb-5
+        .tarjeta.tarjeta-color-primera.p-4.mb-5
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-1
               img(src="@/assets/curso/Tema6/3.svg")
@@ -41,7 +41,7 @@
 
     .row 
       .col-10.m-auto
-        .tarjeta.tarjeta-color-segunda.p-3.mb-5
+        .tarjeta.tarjeta-color-segunda.p-4.mb-5
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-1
               img(src="@/assets/curso/Tema6/4.svg")
@@ -52,7 +52,7 @@
                   p.text-small Visite el siguiente enlace web: Estudio del trabajo: una nueva visión, del sistema de Bibliotecas SENA.
                 .col-sm-auto
                   a.boton.color-boton.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
-                    span ver web
+                    span Ver web
                     i.fas.fa-globe
 
      
@@ -171,7 +171,7 @@
 
     .row 
       .col-10.m-auto
-        .tarjeta.tarjeta-color-tercera.p-3.mb-5
+        .tarjeta.tarjeta-color-tercera.p-4.mb-5
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-1
               img(src="@/assets/curso/Tema6/7.svg")
@@ -238,7 +238,7 @@
        
     .row 
       .col-10.m-auto
-        .tarjeta.tarjeta-color-tercera.p-3.mb-5
+        .tarjeta.tarjeta-color-tercera.p-4.mb-5
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-1
               img(src="@/assets/curso/Tema6/9.svg")
@@ -253,7 +253,7 @@
                     i.fas.fa-file-download
 
 
-        .tarjeta.tarjeta-color-tercera.p-3.mb-5
+        .tarjeta.tarjeta-color-tercera.p-4.mb-5
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-1
               img(src="@/assets/curso/Tema6/9.svg")
