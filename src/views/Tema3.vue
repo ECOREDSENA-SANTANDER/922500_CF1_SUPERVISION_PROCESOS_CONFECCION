@@ -23,9 +23,9 @@
       .row
         .col-10
 
-      .row.justify-content-center.align-items-center.mt-5(data-aos="left")
+      .row.justify-content-center.align-items-center(data-aos="left")
         .col-lg-8
-          .BorTit.mt-5 Figura 7. Modelos de sistemas de producción.
+          .BorTit Figura 7. Modelos de sistemas de producción.
           img.img-t.img-a.mt-4(src='@/assets/curso/Tema3/1.svg', alt='')   
 
 

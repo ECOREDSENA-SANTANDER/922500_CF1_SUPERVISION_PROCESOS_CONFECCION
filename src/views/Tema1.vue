@@ -54,7 +54,6 @@
       .h4.text-in 1.2  Función de la producción 
 
 
-    .h4.my-5 Función de la producción
 
     .row.justify-content-center.align-items-stretch.mt-5.mb-5
       .col-lg-7.bg-color-1.p-4

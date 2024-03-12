@@ -22,9 +22,10 @@
         img.img-t.img-a.mt-4(src='@/assets/curso/Tema2/1.svg', alt='') 
 
 
-    .row.justify-content-center.align-items-stretch.mb-4
-      .col-12.color-acento-contenido.p-8
-        p.mt-5 Analizando la gráfica de un sistema de producción podemos visualizar que lo integra un conjunto de elementos que interactúan entre sí y se retroalimentan constantemente, teniendo como núcleo de ese conjunto a la producción. Cada subconjunto suministra información al conjunto de producción y esta suministra información a los demás subconjuntos con una retroalimentación constante entre ellos.  
+    .tarjeta.bg6.py-4.mb-5
+      .row.ml-1-cus
+        .col-lg-12
+          p Analizando la gráfica de un sistema de producción podemos visualizar que lo integra un conjunto de elementos que interactúan entre sí y se retroalimentan constantemente, teniendo como núcleo de ese conjunto a la producción. Cada subconjunto suministra información al conjunto de producción y esta suministra información a los demás subconjuntos con una retroalimentación constante entre ellos.  
 
     img.img-t.img-a.mt-5(src='@/assets/curso/Tema2/2.png', alt='')    
 
@@ -57,9 +58,9 @@
       .row
         .col-10
 
-      .row.justify-content-center.align-items-center.mt-5(data-aos="left")
+      .row.justify-content-center.align-items-center(data-aos="left")
         .col-lg-8
-          .BorTit.mt-5 Figura 6. Estructura del Sistema de Producción.
+          .BorTit Figura 6. Estructura del Sistema de Producción.
           img.img-t.img-a.mt-4(src='@/assets/curso/Tema2/4.svg', alt='')
 
     
