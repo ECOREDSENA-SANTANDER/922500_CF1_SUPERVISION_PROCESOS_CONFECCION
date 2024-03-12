@@ -70,13 +70,12 @@
           i.fas.fa-quote-right
           h5.mb-2 Dentro de los sistemas de producción por celdas, el trabajo en equipo es fundamental, donde se integran tanto máquinas como talento humano para llevar a cabo una serie de operaciones. Esta distribución facilita el desarrollo de las relaciones profesionales, poniendo a prueba la experticia de los operadores, lo que se traduce en una polivalencia. Este tipo de sistema reduce los periodos de trabajo en la fabricación y preparación, lo que optimiza la supervisión y facilita el control visual
           span Sekine, 1993
-          i.fas.fa-quote-right.quite-pa
       
     p.mt-5 Para una distribución eficiente en la creación de celdas, es crucial considerar la selección de las familias de productos, la definición de las celdas y el establecimiento de su secuencia. Sin embargo, es importante tener en cuenta que esta organización puede incrementar el tiempo de inactividad de las máquinas, ya que estas se concentran en las tareas de la celda y es probable que no se utilicen de forma continua e ininterrumpida. 
 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-8
-        .BorTit Figura 8. Sistema de producción por celda.
+        .BorTit  #[b Figura 8.]  Sistema de producción por celda.
         img.img-t.img-a.mt-4(src='@/assets/curso/Tema4/8.svg', alt='El sistema de producción por celdas, el cual se subdivide  en  5 operaciones cada una con un recuadro que simulan las celdas cada una con un color de referencia y al frente se detallan cuatro fases  enumeradas así: Punto 1, punto 2, punto 3 y punto 4, las cuatro fases cuentan con las celdas de colores indicando que tienen las 5 Operaciones.')  
 
 
@@ -95,7 +94,7 @@
         p.mb-4 Según Huamán Oscco (2003), un módulo puede definirse como un grupo específico de trabajadores asignados a una tarea particular. Esta estructura organizativa permite una mayor fluidez y sincronización en la producción, asegurando que los productos se generen siguiendo el orden establecido de las operaciones.  
         p Por otro lado, Bonilla Pastor (2007) describe la producción modular como aquella en la que el personal asume diversas funciones dentro de un módulo de procesamiento, integrado por equipos de trabajadores que realizan diversas actividades necesarias para obtener el producto final. Esta metodología favorece un movimiento continuo y flexible, permitiendo la combinación de modelos dentro de una misma familia de productos. Así, la producción modular minimiza la acumulación de inventario en proceso y fomenta el movimiento del talento humano a lo largo de las distintas etapas del proceso, lo que indica que la producción no sigue un enfoque de producción en serie.
 
-    .h4.my-5.titulo-caracteristicas Características
+    .h4.mt-5.titulo-caracteristicas Características
 
     p Según Bonilla Pastor (2007), el sistema de producción modular incorpora varios criterios para su implementación. Estos incluyen la necesidad de una máquina para operaciones específicas y la definición del producto final después de pasar por toda la secuencia de producción. De esta manera, cada trabajador utiliza la máquina en un momento determinado sin interrupciones hasta finalizar la prenda. Además, el talento humano contribuye a una eficiencia total del 100%, y las piezas que inician el proceso están cortadas cerca del lugar designado para iniciar.
 
@@ -106,7 +105,7 @@
 
       .row.justify-content-center.align-items-center.mt-5(data-aos="left")
         .col-lg-10
-          .BorTit Figura 9. Sistema de producción modular.
+          .BorTit  #[b Figura 9.]  Sistema de producción modular.
           img.img-t.img-a.mt-4(src='@/assets/curso/Tema4/10.svg', alt='Se describe el sistema de producción modular, en donde siete personas están sentadas en una mesa ovalada uno en la cabecera, tres personas al lado derecho y tres personas al lado izquierdo, estas ultimas personas de este lado izquierdo tiene la numeración de izquierda a derecha del 1 al 3, quien esta en la cabecera tiene el numero 4,  los tres de la derecha de la mesa tienen en su orden los números 5, 6 y 7 de derecha a izquierda.  La imagen cuenta con una flecha  que inicia detrás de la persona  1, va de izquierda a derecha, por detrás de las personas 1, 2,  3 y 4   y continua girando, detrás de los números 5, 6 y 7 bordeando la  mesa, hasta terminar en el número 7.  En medio de cada uno de ellos existe un espacio y en la mesa encima cuentan con una llave inglesa')  
 </template>
 

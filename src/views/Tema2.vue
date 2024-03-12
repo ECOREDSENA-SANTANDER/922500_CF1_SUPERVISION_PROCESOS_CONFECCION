@@ -11,14 +11,13 @@
           i.fas.fa-quote-right
           h5.mb-2 La estructura del sistema de producción se define como la composición de insumos interrelacionados, que se acogen del medio externo y se manipulan para transformarse en elementos con valor agregado, con el fin de alcanzar metas comunes al desarrollar una salida de modo tangible o intangible hacia el exterior.  
           span Everett E. (1991).
-          i.fas.fa-quote-right.quite-pa
 
     p Este concepto puede entenderse a través de un esquema que grafica su funcionamiento dentro de la empresa por medio de un conjunto como el que se presenta a continuación:
               
 
     .row.justify-content-center.align-items-center.mt-5.mb-5
       .col-lg-8
-        .BorTit.mt-5 Figura 5. Estructura del Sistema de Producción.
+        .BorTit.mt-5  #[b Figura 5.]  Estructura del Sistema de Producción.
         img.img-t.img-a.mt-4(src='@/assets/curso/Tema2/1.svg', alt='Se expone la palabra sub- producto de donde se desprenden cinco términos que lo rodean:   Sub- Inversión, Sub - Información, Sub - Recursos Humanos, Sub - Dirección, Sub - Comercial') 
 
 
@@ -39,10 +38,10 @@
     
 
     .row.justify-content-center.align-items-stretch.mb-4
-      .col-6.p-8
-        p.mt-5 Para que un sistema de producción funcione adecuadamente, es fundamental contar con un equipo humano idóneo, dotado de las aptitudes necesarias para operar las máquinas de producción, junto con las herramientas y la tecnología requeridas. Además, se necesitan sistemas de manejo de materiales y sistemas computacionales que permitan coordinar y controlar estos componentes.
-      .col-5.p-8
-        img.img-t.img-a.mt-5(src='@/assets/curso/Tema2/3.svg', alt='')
+      .col-6
+        p.mt-2 Para que un sistema de producción funcione adecuadamente, es fundamental contar con un equipo humano idóneo, dotado de las aptitudes necesarias para operar las máquinas de producción, junto con las herramientas y la tecnología requeridas. Además, se necesitan sistemas de manejo de materiales y sistemas computacionales que permitan coordinar y controlar estos componentes.
+      .col-5
+        img.img-t.img-a.mt-2(src='@/assets/curso/Tema2/3.svg', alt='')
 
 
     Separador
@@ -60,7 +59,7 @@
 
       .row.justify-content-center.align-items-center(data-aos="left")
         .col-lg-8
-          .BorTit Figura 6. Estructura del Sistema de Producción.
+          .BorTit  #[b Figura 6.]  Estructura del Sistema de Producción.
           img.img-t.img-a.mt-4(src='@/assets/curso/Tema2/4.svg', alt='Clasificación de los sistemas de producción que se convierten en factores del mismo sistema')
 
     

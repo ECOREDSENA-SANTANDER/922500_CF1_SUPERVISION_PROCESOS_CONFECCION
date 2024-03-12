@@ -6,8 +6,8 @@
       .titulo-principal__numero
         span.numero 7
       h1.text-in Sistemas de gestión de calidad
-    .tarjeta.row.mb-5
-      .tarjeta.bg7.p-5.mb-1
+    .tarjeta.row.mb-5.bg7
+      .tarjeta.py-5.mb-1
         .row.ml-1-cus
           .col-12
             p.mb-4 El sistema de gestión profundizado en la calidad plantea herramientas que permite a las organizaciones planear, implementar, controlar y realizar seguimientos a las actividades de la organización empresarial a través de estándares de calidad, lo cual dicha información proporciona desarrolla indicadores de alerta o normalidad de los procesos.
@@ -115,7 +115,7 @@
 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-6
-        .BorTit Figura 12. Etapas de sistema de gestión de calidad en salud. Fuente: SENA 2021, Fernellis Mauricio Echeverry.
+        .BorTit  #[b Figura 12.]  Etapas de sistema de gestión de calidad en salud. Fuente: SENA 2021, Fernellis Mauricio Echeverry.
 
         img.img-t.img-a.mt-4(src='@/assets/curso/Tema7/7.svg', alt='')  
     
@@ -156,14 +156,14 @@
         .row.justify-content-center.align-items-center(titulo="ARL")
           .col-md-3
             figure
-              img(src='@/assets/curso/Tema7/13.png', alt='ARL')      
+              img(src='@/assets/curso/Tema7/31.png', alt='ARL')      
           .col-md-7.mb-4.mb-md-0
             p #[b ARL]
             p Se define como las entidades de carácter público o privado, además de las normas que velan por la prevención, protección y atención de los trabajadores ante las enfermedades profesionales o accidentes que podrían ocurrir dentro del ambiente laboral. 
         .row.justify-content-center.align-items-center(titulo="Factor de riesgo")
           .col-md-3
             figure
-              img(src='@/assets/ilustraciones/img40.png', alt='Factor de riesgo')      
+              img(src='@/assets/curso/Tema7/13.png', alt='Factor de riesgo')      
           .col-md-7.mb-4.mb-md-0
             p #[b Factor de riesgo]
             p todos los objetos y herramientas que se usan en los diversos puestos de trabajo, que puedan ocasionar condiciones de riesgo, al accionarlas y manipularlas por las personas. Pueden generar riesgos de tipo medioambiental, lesiones o daños a las instalaciones.
@@ -383,7 +383,7 @@
 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-8
-        .BorTit Figura 13. Plan de capacitación plantas de confección. Fuente: SENA 2021, Erika Blanco.
+        .BorTit  #[b Figura 12.]  Plan de capacitación plantas de confección. Fuente: SENA 2021, Erika Blanco.
 
         img.img-t.img-a.mt-4(src='@/assets/curso/Tema7/23.svg', alt='') 
 

@@ -18,7 +18,7 @@
 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-8
-        .BorTit.mt-5  #[b Figura 1. Desarrollo ] 
+        .BorTit.mt-5  #[b Figura 1.] Desarrollo  
         img.img-t.img-a.mt-4(src='@/assets/curso/Tema1/2.svg', alt='Desarrollo') 
 
 
@@ -34,17 +34,16 @@
           i.fas.fa-quote-right
           h5.mb-2 La producción se define como un componente importante de la empresa al desarrollar o fabricar un bien intangible. 
           span - Tawfik (1987).
-          i.fas.fa-quote-right.quite-pa
 
       .col-lg-4.bloque-texto-c.color-acento-contenido.p-4.mt-5
           i.fas.fa-quote-right
           h5.mb-2 La define como un hecho realizado con la intención de transformar diversos elementos para generar un bien tangible e intangible que satisfaga una necesidad humana. 
           span Everett E. (1991).
-          i.fas.fa-quote-right.quite-pa
+          
 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-8
-        .BorTit Figura 2. Producción.
+        .BorTit  #[b Figura 2.]  Producción.
         img.img-t.img-a.mt-4(src='@/assets/curso/Tema1/3.svg', alt='Producción' data-aos="slide-left")  
 
     Separador
@@ -67,7 +66,7 @@
 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-8
-        .BorTit.mt-5 Figura 3. Esquema de producción.
+        .BorTit.mt-5  #[b Figura 3.]  Esquema de producción.
         img.img-t.img-a.mt-4(src='@/assets/curso/Tema1/5.svg', alt='En la imagen se describe tres sectores de la economía que llevan al proceso de producción, en el primer sector denominado Primario se ubica la agricultura o industria extractiva, el siguiente es el sector Secundario que hace referencia a la industria manufacturera, para finalmente llegar al sector Terciario en donde se ubica el comercio, servicios públicos, transporte Créditos, Turismo entre otros')  
     
     Separador
@@ -87,7 +86,7 @@
 
       .row.justify-content-center.align-items-center.mt-5(data-aos="left")
         .col-lg-8
-          .BorTit Figura 4. Objetivo de la producción. 
+          .BorTit  #[b Figura 4.]  Objetivo de la producción. 
           img.img-t.img-a.mt-4(src='@/assets/curso/Tema1/6.svg', alt='Se expone un gráfico de procesos,  en donde existe una entrada de insumos, terrenos, mano de obra, capital, materiales y equipos  de allí pasa a Transformación que es un proceso de  conversión, para finalmente ingresar a la estación de salida donde se obtiene el producto final.')  
         
 </template>

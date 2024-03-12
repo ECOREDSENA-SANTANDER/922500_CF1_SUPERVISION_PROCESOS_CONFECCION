@@ -16,7 +16,7 @@
 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-10
-        .BorTit Figura 10. Orden de producción camiseta tipo polo dama. Fuente: SENA 2021, Fernellis Mauricio Echeverry.
+        .BorTit  #[b Figura 10.]  Orden de producción camiseta tipo polo dama. Fuente: SENA 2021, Fernellis Mauricio Echeverry.
         img.img-t.img-a.mt-4(src='@/assets/curso/Tema6/2.svg', alt='Orden de producción camiseta tipo polo dama. Fuente: SENA 2021, Fernellis Mauricio Echeverry.') 
 
     
@@ -74,7 +74,7 @@
 
     .row.justify-content-center.align-items-center.mt-5.mb-5
       .col-lg-8
-        .BorTit Figura 11.  Hoja de Ruta. Fuente: SENA 2021, Fernellis Mauricio Echeverry.
+        .BorTit  #[b Figura 11.]   Hoja de Ruta. Fuente: SENA 2021, Fernellis Mauricio Echeverry.
         .tabla-b.mt-4
           .tabla-b__header.bg-table
             h5.mb-0.text-color Hoja de Ruta
@@ -128,7 +128,7 @@
                   p.text-small Procesos productivos de la empresaProcesos productivos de la empresaProcesos productivos de la empresaProcesos productivos de la empresaProcesos productivos de la empresaProcesos productivos de la empresaProcesos productivos de la empresaProcesos productivos de la empresaProcesos productivos de la empresaProcesos productivos de la empresa
                 .col-sm-auto
                   a.boton.color-boton.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
-                    span ver web
+                    span Ver web
                     i.fas.fa-file-download
 
     Separador
@@ -143,13 +143,13 @@
           i.fas.fa-quote-right
           h5.mb-2 Es el documento que da facilidad y precisión en la en la producción de una prenda de vestir
           span Pinilla (2006, p. 51).
-          i.fas.fa-quote-right.quite-pa
+          
 
       .col-lg-8.bloque-texto-c.color-acento-contenido.p-4
           i.fas.fa-quote-right
           h5.mb-2 “Es un documento escrito (Gráfico), en la cual se registran todas las características técnicas del producto prenda, es el documento que registra todos los procesos de fabricación considerando información relevante desde que nace el requerimiento del cliente (Spec) o idea propia, siguiendo por la fase de desarrollo, producción y despacho”  
           span Huertas (2019, p. 54)
-          i.fas.fa-quote-right.quite-pa
+          
 
 
     p.mb-4 Los componentes de una ficha técnica en el desarrollo del formato no son fijos y se definirán de acuerdo a las necesidades puntuales de cada empresa, sin embargo, todas las fichas tienen encabezado, en este apartado se encuentra información importante como: la descripción de la prenda, código del producto, diseñador, tipo de colección, fechas, nombre de la colección, autor del diseño, descripción detallada del diseño, a quien va dirigido, material textil, colores del material textil, tallas a realizar, accesorios.
