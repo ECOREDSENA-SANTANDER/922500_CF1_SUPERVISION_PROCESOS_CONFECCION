@@ -18,8 +18,9 @@
     .row.justify-content-center.align-items-center.mt-5.mb-5
       .col-lg-8
         .BorTit.mt-5  #[b Figura 5.]  Estructura del Sistema de Producción.
-        img.img-t.img-a.mt-4(src='@/assets/curso/Tema2/1.svg', alt='Se expone la palabra sub- producto de donde se desprenden cinco términos que lo rodean:   Sub- Inversión, Sub - Información, Sub - Recursos Humanos, Sub - Dirección, Sub - Comercial') 
-
+        img.img-t.img-a.mt-4.d-none.d-lg-block(src='@/assets/curso/Tema2/1.svg', alt='Se expone la palabra sub- producto de donde se desprenden cinco términos que lo rodean:   Sub- Inversión, Sub - Información, Sub - Recursos Humanos, Sub - Dirección, Sub - Comercial') 
+        img.img-t.img-a.mt-4.d-block.d-lg-none(src='@/assets/curso/Tema2/5.svg', alt='En la imagen se describe tres sectores de la economía que llevan al proceso de producción, en el primer sector denominado Primario se ubica la agricultura o industria extractiva, el siguiente es el sector Secundario que hace referencia a la industria manufacturera, para finalmente llegar al sector Terciario en donde se ubica el comercio, servicios públicos, transporte Créditos, Turismo entre otros')  
+    
 
     .tarjeta.bg6.py-4.mb-5
       .row.ml-1-cus
@@ -38,9 +39,9 @@
     
 
     .row.justify-content-center.align-items-stretch.mb-4
-      .col-6
+      .col-sm-12.col-lg-6
         p.mt-2 Para que un sistema de producción funcione adecuadamente, es fundamental contar con un equipo humano idóneo, dotado de las aptitudes necesarias para operar las máquinas de producción, junto con las herramientas y la tecnología requeridas. Además, se necesitan sistemas de manejo de materiales y sistemas computacionales que permitan coordinar y controlar estos componentes.
-      .col-5
+      .col-sm-12.col-lg-5
         img.img-t.img-a.mt-2(src='@/assets/curso/Tema2/3.svg', alt='')
 
 
@@ -60,7 +61,8 @@
       .row.justify-content-center.align-items-center(data-aos="left")
         .col-lg-8
           .BorTit  #[b Figura 6.]  Estructura del Sistema de Producción.
-          img.img-t.img-a.mt-4(src='@/assets/curso/Tema2/4.svg', alt='Clasificación de los sistemas de producción que se convierten en factores del mismo sistema')
+          img.img-t.img-a.mt-4.d-none.d-lg-block(src='@/assets/curso/Tema2/4.svg', alt='Clasificación de los sistemas de producción que se convierten en factores del mismo sistema')
+          img.img-t.img-a.mt-4.d-block.d-lg-none(src='@/assets/curso/Tema2/6.svg', alt='Clasificación de los sistemas de producción que se convierten en factores del mismo sistema')
 
     
 </template>

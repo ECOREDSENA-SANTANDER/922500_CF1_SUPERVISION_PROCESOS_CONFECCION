@@ -13,7 +13,8 @@
 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-10    
-        img.img-t.img-a(src='@/assets/curso/Tema4/1.svg', alt='')  
+        img.img-t.img-a.d-none.d-lg-block(src='@/assets/curso/Tema4/1.svg', alt='')  
+        img.img-t.img-a.d-block.d-lg-none(src='@/assets/curso/Tema4/11.svg', alt='')  
     
     Separador    
 

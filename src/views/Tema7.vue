@@ -129,16 +129,16 @@
 
     .tarjeta.tarjeta--gris-bg-1.p-4.mt-5
       LineaTiempoC
-        .row.justify-content-center.align-items-center(titulo="Medicina preventiva y del trabajo")
+        .row.justify-content-center.align-items-start(titulo="Medicina preventiva y del trabajo")
           .col-md-3
             figure
               img(src='@/assets/curso/Tema7/9.png', alt='Medicina preventiva y del trabajo')      
-          .col-md-7.mb-4.mb-md-0
+          .col-md-7.mb-4
             p.mb-3 #[b Medicina preventiva y del trabajo]
             p.mb-3 Actividades fundamentadas a la calidad y seguridad de la vida de los empleados a través de mantenimientos predictivos, preventivos y correctivos de los equipos que se encuentren dentro de los activos de la empresa.
             p Se genera una relación entre equipos y maquinaria, donde se generan informes de salud y seguridad de los empleados que manipulan dichas maquinarias optimizando los recursos de las empresas, pero también en el autocuidado del personal operativo.
     
-        .row.justify-content-center.align-items-center(titulo="Comité Paritario de Salud Ocupacional (COPASO)")
+        .row.justify-content-center.align-items-start(titulo="Comité Paritario de Salud Ocupacional (COPASO)")
           .col-md-3
             figure
               img(src='@/assets/curso/Tema7/10.png', alt='Comité Paritario de Salud Ocupacional (COPASO)')      
@@ -383,9 +383,10 @@
 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-8
-        .BorTit  #[b Figura 12.]  Plan de capacitación plantas de confección. Fuente: SENA 2021, Erika Blanco.
+        .BorTit  #[b Figura 13.]  Plan de capacitación plantas de confección. Fuente: SENA 2021, Erika Blanco.
 
-        img.img-t.img-a.mt-4(src='@/assets/curso/Tema7/23.svg', alt='') 
+        img.img-t.img-a.mt-4.d-none.d-lg-block(src='@/assets/curso/Tema7/23.svg', alt='') 
+        img.img-t.img-a.mt-4.d-block.d-lg-none(src='@/assets/curso/Tema7/32.svg', alt='') 
 
 
 

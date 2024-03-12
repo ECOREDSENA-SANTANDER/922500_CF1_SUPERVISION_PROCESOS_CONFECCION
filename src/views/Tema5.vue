@@ -12,7 +12,8 @@
         img.img-t.img-a(src='@/assets/curso/Tema5/1.png', alt='')
         p.mt-5.mb-4 Las máquinas de producción son fundamentales para llevar a cabo los procesos, ya que procesan y ensamblan materiales transformados. Se clasifican de la siguiente manera.
         p Así mismo la imagen no cuenta con numeración como figura, por ello se recomienda omitir, teniendo en cuenta los cuadros que se anexan por parte del experto.
-        img.img-t.img-a.mt-5(src='@/assets/curso/Tema5/2.svg', alt='')
+        img.img-t.img-a.mt-5.d-none.d-lg-block(src='@/assets/curso/Tema5/2.svg', alt='')
+        img.img-t.img-a.mt-5.d-block.d-lg-none(src='@/assets/curso/Tema5/3.svg', alt='')
 
 </template>
 

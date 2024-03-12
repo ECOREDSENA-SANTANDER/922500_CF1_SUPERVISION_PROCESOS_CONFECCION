@@ -27,7 +27,7 @@
         p.mt-5 Para profundizar en este tema se recomienda descargar y visitar los siguientes archivos
         .tarjeta.tarjeta-color-primera.p-4.mb-5
           .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-lg-1
+            .col-3.col-sm-2.col-lg-1.d-none.d-lg-block
               img(src="@/assets/curso/Tema6/3.svg")
             .col
               .row.justify-content-between.align-items-center
@@ -43,7 +43,7 @@
       .col-10.m-auto
         .tarjeta.tarjeta-color-segunda.p-4.mb-5
           .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-lg-1
+            .col-3.col-sm-2.col-lg-1.d-none.d-lg-block
               img(src="@/assets/curso/Tema6/4.svg")
             .col
               .row.justify-content-between.align-items-center
@@ -62,12 +62,11 @@
     .titulo-segundo.color-acento-botones#t_6_1
       .h4 6.1  Hojas de Ruta     
 
-    .row.bg2
-      .col-3.medida-imagen.p-7.m-5
+    .row.bg2.bg-norepeat
+      .col-sm-2.col-lg-3.medida-imagen.m-5.d-none.d-lg-block
         img(src="@/assets/curso/Tema6/11.png")
-      .col-6.p-5.m-1
-        .tarjeta.tarjeta-color-cuarta.p-4.mb-5.medida-tarjeta
-          .col-12.p-4 
+      .col-sm-12.col-lg-8.m-1.p-All-cus
+        .p-All-cus.mb-5.bg8
             p.mb-3 La hoja de ruta en confección es un documento que muestra el tiempo que toma cada fase del proceso productivo, en este punto es importante identificar cada fase y su respectivo tiempo de desarrollo en días, ya que el orden del proceso es crucial, por ejemplo: trazo, corte de piezas, realización de contra muestra, confección y terminación.
             p.mb-3 La hoja de ruta ayuda a identificar la trazabilidad del producto.
             p La siguiente tabla muestra las definiciones del tiempo aproximado de cada proceso plasmado en una hoja de ruta.
@@ -116,16 +115,16 @@
 
 
     .row 
-      .col-10.m-auto
+      .col-sm-12.col-lg-10.m-auto
         .tarjeta.tarjeta-color-segunda.p-3.mb-5
           .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-lg-1
+            .col-3.col-sm-2.col-lg-1.d-none.d-lg-block
               img(src="@/assets/curso/Tema6/5.svg")
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h3.mb-1 Procesos productivos de la empresa
-                  p.text-small Procesos productivos de la empresaProcesos productivos de la empresaProcesos productivos de la empresaProcesos productivos de la empresaProcesos productivos de la empresaProcesos productivos de la empresaProcesos productivos de la empresaProcesos productivos de la empresaProcesos productivos de la empresaProcesos productivos de la empresa
+                  p.text-small Para abordar en profundidad la explicación de los procesos productivos de la empresa, visitar el portal web de Lafayette Sports.
                 .col-sm-auto
                   a.boton.color-boton.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
                     span Ver web
@@ -173,7 +172,7 @@
       .col-10.m-auto
         .tarjeta.tarjeta-color-tercera.p-4.mb-5
           .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-lg-1
+            .col-3.col-sm-2.col-lg-1.d-none.d-lg-block
               img(src="@/assets/curso/Tema6/7.svg")
             .col
               .row.justify-content-between.align-items-center
@@ -240,7 +239,7 @@
       .col-10.m-auto
         .tarjeta.tarjeta-color-tercera.p-4.mb-5
           .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-lg-1
+            .col-3.col-sm-2.col-lg-1.d-none.d-lg-block
               img(src="@/assets/curso/Tema6/9.svg")
             .col
               .row.justify-content-between.align-items-center
@@ -255,7 +254,7 @@
 
         .tarjeta.tarjeta-color-tercera.p-4.mb-5
           .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-lg-1
+            .col-3.col-sm-2.col-lg-1.d-none.d-lg-block
               img(src="@/assets/curso/Tema6/9.svg")
             .col
               .row.justify-content-between.align-items-center

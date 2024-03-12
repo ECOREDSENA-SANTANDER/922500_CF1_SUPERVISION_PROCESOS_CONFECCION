@@ -12,7 +12,7 @@
 
 
     .row.justify-content-center.align-items-stretch.mt-5
-      .col-8.bloque-texto-c.color-acento-contenido.p-4
+      .col-sm-12.col-lg-8.bloque-texto-c.color-acento-contenido.p-4
           i.fas.fa-quote-right
           h5.mb-2 Los modelos se estructuran según la realidad y la abstracción, y estos factores permiten desde un problema presentado en la realidad, permite que la abstracción simule por medio de una formulación la proyección de modelos que serán verificados en la realidad. 
           span NAHMIAS, 1999
@@ -26,8 +26,9 @@
       .row.justify-content-center.align-items-center(data-aos="left")
         .col-lg-8
           .BorTit  #[b Figura 7.]  Modelos de sistemas de producción.
-          img.img-t.img-a.mt-4(src='@/assets/curso/Tema3/1.svg', alt='Se exponen dos modelos denominados Realidad y Abstracción, en el primero se incluyen Problemas Datos Modelos, de los cuales se subdividen 4 términos que se ubican en el lado derecho de Abstracción y son Formulación, Manipulación, Evaluación, Pronostico, Finalmente termina en el modelo realidad con Verificación.')   
-
+          img.img-t.img-a.mt-4.d-none.d-lg-block(src='@/assets/curso/Tema3/1.svg', alt='Se exponen dos modelos denominados Realidad y Abstracción, en el primero se incluyen Problemas Datos Modelos, de los cuales se subdividen 4 términos que se ubican en el lado derecho de Abstracción y son Formulación, Manipulación, Evaluación, Pronostico, Finalmente termina en el modelo realidad con Verificación.')   
+          img.img-t.img-a.mt-4.d-block.d-lg-none(src='@/assets/curso/Tema3/3.svg', alt='Se exponen dos modelos denominados Realidad y Abstracción, en el primero se incluyen Problemas Datos Modelos, de los cuales se subdividen 4 términos que se ubican en el lado derecho de Abstracción y son Formulación, Manipulación, Evaluación, Pronostico, Finalmente termina en el modelo realidad con Verificación.')   
+          
 
     Separador
 
@@ -38,7 +39,7 @@
     p La función principal de un modelo es representar o explicar una realidad, sirviendo como una réplica de los factores que caracterizan un proceso, por ello en un modelo se destacan las relaciones entre causa y efecto, así como las metas a alcanzar y las posibles restricciones.
 
     .row.justify-content-center.align-items-center
-      .col-10
+    .col-sm-12.col-lg-10
         .bloque-texto-b.color-primario.p-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
@@ -50,7 +51,8 @@
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-10
         p De esta forma, se evidencian tres tipos:
-        img.img-t.img-a.mt-4(src='@/assets/curso/Tema3/2.svg', alt='')            
+        img.img-t.img-a.mt-4.d-none.d-lg-block(src='@/assets/curso/Tema3/2.svg', alt='')            
+        img.img-t.img-a.mt-4.d-block.d-lg-none(src='@/assets/curso/Tema3/4.svg', alt='')            
 
 </template>
 
