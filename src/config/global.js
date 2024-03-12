@@ -2,9 +2,27 @@ export default {
   global: {
     componenteFormativo: 'Sistemas de producción',
     descripcionCurso:
-      'Este componente aborda los sistemas de producción del proceso de confección de prendas de vestir, contextualiza al aprendiz en el proceso productivo de supervisión de los procesos de confección.<br/><br/>Se identifica terminología, conceptos y definiciones de los sistemas de producción, asi como su enfoque en la cadena productiva de la confección industrial de prendas de vestir, para fortalecer el nivel competitivo de las empresas del sector.',
+      'Este componente se centra en los Sistemas de Producción del proceso de confección de prendas de vestir, con el objetivo de brindar al aprendiz un contexto completo sobre la supervisión de procesos productivos.<br/><br/>SSe explora una variedad de conceptos enfocándose especialmente en su aplicación dentro de la cadena de productiva de la confección industrial de prendas de vestir. ',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
+    imagenesDecorativasBanner: [
+      {
+        clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/portada/1.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-2'],
+        imagen: require('@/assets/curso/portada/2.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/3.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-4'],
+        imagen: require('@/assets/curso/portada/4.png'),
+      },
+    ],
   },
   menuPrincipal: {
     menu: [
@@ -21,34 +39,45 @@ export default {
       },
       {
         nombreRuta: 'tema1',
-        icono: 'far fa-file-alt',
         numero: '1',
         titulo: 'Sistemas de producción',
         desarrolloContenidos: true,
         subMenu: [
           {
-            icono: 'far fa-file-alt',
+            //icono: 'far fa-file-alt',
             numero: '1.1',
             titulo: 'Producción: concepto y terminología',
+            hash: 't_1_1',
+          },
+          {
+            //icono: 'far fa-file-alt',
+            numero: '1.2',
+            titulo: ' Función de la producción',
+            hash: 't_1_1',
+          },
+          {
+            //icono: 'far fa-file-alt',
+            numero: '1.3',
+            titulo: 'Objetivo de la producción',
             hash: 't_1_1',
           },
         ],
       },
       {
         nombreRuta: 'tema2',
-        icono: 'far fa-file-alt',
+        //icono: 'far fa-file-alt',
         numero: '2',
         titulo: 'Estructura del sistema de producción',
         desarrolloContenidos: true,
         subMenu: [
           {
-            icono: 'far fa-file-alt',
+            //icono: 'far fa-file-alt',
             numero: '2.1',
             titulo: 'Componentes de un sistema de producción',
             hash: 't_2_1',
           },
           {
-            icono: 'far fa-file-alt',
+            //icono: 'far fa-file-alt',
             numero: '2.2',
             titulo: 'Clasificación de los sistemas de producción',
             hash: 't_2_2',
@@ -57,32 +86,40 @@ export default {
       },
       {
         nombreRuta: 'tema3',
-        icono: 'far fa-file-alt',
+        //icono: 'far fa-file-alt',
         numero: '3',
         titulo: 'Modelos de sistemas de producción',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            //icono: 'far fa-file-alt',
+            numero: '3.1',
+            titulo: 'Tipos de Modelos',
+            hash: 't_3_1',
+          },
+        ],
       },
       {
         nombreRuta: 'tema4',
-        icono: 'far fa-file-alt',
+        //icono: 'far fa-file-alt',
         numero: '4',
         titulo: 'Tipos de sistemas de producción para procesos de Confección',
         desarrolloContenidos: true,
         subMenu: [
           {
-            icono: 'far fa-file-alt',
+            //icono: 'far fa-file-alt',
             numero: '4.1',
             titulo: 'Sistema de producción lineal',
             hash: 't_4_1',
           },
           {
-            icono: 'far fa-file-alt',
+            //icono: 'far fa-file-alt',
             numero: '4.2',
             titulo: 'Sistemas de producción por celdas',
             hash: 't_4_2',
           },
           {
-            icono: 'far fa-file-alt',
+            //icono: 'far fa-file-alt',
             numero: '4.3',
             titulo: 'Sistemas de producción modular',
             hash: 't_4_3',
@@ -91,32 +128,32 @@ export default {
       },
       {
         nombreRuta: 'tema5',
-        icono: 'far fa-file-alt',
+        //icono: 'far fa-file-alt',
         numero: '5',
         titulo: 'Máquinas de producción',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema6',
-        icono: 'far fa-file-alt',
+        //icono: 'far fa-file-alt',
         numero: '6',
         titulo: 'Ordenes de producción',
         desarrolloContenidos: true,
         subMenu: [
           {
-            icono: 'far fa-play-circle',
+            //icono: 'far fa-play-circle',
             numero: '6.1',
             titulo: 'Hojas de ruta',
             hash: 't_6_1',
           },
           {
-            icono: 'far fa-file-alt',
+            //icono: 'far fa-file-alt',
             numero: '6.2',
             titulo: 'Fichas técnicas',
             hash: 't_6_2',
           },
           {
-            icono: 'far fa-file-alt',
+            //icono: 'far fa-file-alt',
             numero: '6.3',
             titulo: 'Consumo de materiales',
             hash: 't_6_3',
@@ -125,27 +162,27 @@ export default {
       },
       {
         nombreRuta: 'tema7',
-        icono: 'far fa-file-alt',
+        //icono: 'far fa-file-alt',
         numero: '7',
         titulo: 'Sistemas de gestión de calidad',
         desarrolloContenidos: true,
         subMenu: [
           {
-            icono: 'far fa-file-alt',
+            //icono: 'far fa-file-alt',
             numero: '7.1',
             titulo: 'Seguridad e higiene en la industria',
             hash: 't_7_1',
           },
           {
-            icono: 'far fa-file-alt',
+            //icono: 'far fa-file-alt',
             numero: '7.2',
             titulo: 'Normas técnicas de salud',
             hash: 't_7_2',
           },
           {
-            icono: 'far fa-file-alt',
+            //icono: 'far fa-file-alt',
             numero: '7.3',
-            titulo: 'CAmbientales para plantas de confección',
+            titulo: 'Ambientales para plantas de confección',
             hash: 't_7_3',
           },
         ],

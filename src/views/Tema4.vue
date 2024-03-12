@@ -7,17 +7,20 @@
         span.numero 4
       h1.text-in Tipos de sistemas de producción para procesos de Confección
 
-    p Al entender qué son los sistemas de producción y todo lo que se ha hablado de ello, es importante identificar los tipos de sistemas de producción existentes teniendo en cuenta factores como los productos o la demanda de estos. De esta manera, se presentan los siguientes:
+    p.mb-4 Al comprender los sistemas de producción y su contexto, resulta importante identificar los tipos de sistemas, teniendo en cuenta factores como los productos y la demanda asociada a estos.  
+    p Se representan de la siguiente forma: 
+
+
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-10    
-        img.img-t.img-a(src='@/assets/ilustraciones/img10.svg', alt='')  
+        img.img-t.img-a(src='@/assets/curso/Tema4/1.svg', alt='')  
     
     Separador    
 
     .titulo-segundo.color-acento-botones#t_4_1
       .h4.text-in 4.1  Sistema de producción lineal        
 
-    .tarjeta.tarjeta--azul-1.p-3
+    .tarjeta.tarjeta--azul-1.p-3.bg1
       SlyderA
         .row.justify-content-center.align-items-center
           .col-md-5.my-2.mb-md-0
@@ -25,7 +28,7 @@
         
           .col-md-5
             figure
-              img(src='@/assets/ilustraciones/img11.svg', alt='Sistema de producción lineal')
+              img(src='@/assets/curso/Tema4/2.svg', alt='Sistema de producción lineal')
 
         .row.justify-content-center.align-items-center
           .col-md-5.my-2.mb-md-0
@@ -33,7 +36,7 @@
         
           .col-md-5
             figure
-              img(src='@/assets/ilustraciones/img12.svg', alt='Sistema de producción lineal')
+              img(src='@/assets/curso/Tema4/3.svg', alt='Sistema de producción lineal')
 
         .row.justify-content-center.align-items-center
           .col-md-5.my-2.mb-md-0
@@ -41,7 +44,7 @@
         
           .col-md-5
             figure
-              img(src='@/assets/ilustraciones/img13.svg', alt='Sistema de producción lineal')
+              img(src='@/assets/curso/Tema4/4.svg', alt='Sistema de producción lineal')
 
         .row.justify-content-center.align-items-center
           .col-md-5.my-2.mb-md-0
@@ -49,12 +52,14 @@
         
           .col-md-5
             figure
-              img(src='@/assets/ilustraciones/img14.svg', alt='Sistema de producción lineal')
+              img(src='@/assets/curso/Tema4/6.svg', alt='Sistema de producción lineal')
 
         .row.justify-content-center.align-items-center
           .col-12
             figure
-              img(src='@/assets/ilustraciones/img15.svg', alt='Sistema de producción lineal')                                                        
+              img(src='@/assets/curso/Tema4/7.svg', alt='Sistema de producción lineal') 
+
+
     Separador    
 
     .titulo-segundo.color-acento-botones#t_4_2
@@ -67,33 +72,42 @@
           span Sekine, 1993
           i.fas.fa-quote-right.quite-pa
       
-    p.mt-5 Para realizar una adecuada distribución en la generación de celdas se especifica tener en cuenta la selección de las familias de productos, definir las celdas y determinar su orden. Aunque se debe tener en cuenta que esta organización aumenta el tiempo de inactividad de las máquinas, puesto que éstas se enfocan en la celda y es muy probable que no se usen muy seguidos de manera ininterrumpida. 
+    p.mt-5 Para una distribución eficiente en la creación de celdas, es crucial considerar la selección de las familias de productos, la definición de las celdas y el establecimiento de su secuencia. Sin embargo, es importante tener en cuenta que esta organización puede incrementar el tiempo de inactividad de las máquinas, ya que estas se concentran en las tareas de la celda y es probable que no se utilicen de forma continua e ininterrumpida. 
 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-8
-        .BorTit Figura 7. Sistema de Producción por celdas.
-        img.img-t.img-a.mt-4(src='@/assets/ilustraciones/img16.svg', alt='')  
+        .BorTit Figura 8. Sistema de producción por celda.
+        img.img-t.img-a.mt-4(src='@/assets/curso/Tema4/8.svg', alt='')  
+
 
     Separador    
 
+
+
     .titulo-segundo.color-acento-botones#t_4_3
-      .h4 4.3  Sistemas de producción modular 
+      .h4 4.3  Sistemas de producción modular
+
+
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-5
-        img.img-t.img-a.my-2(src='@/assets/ilustraciones/img17.png', alt='') 
+        img.img-t.img-a.my-2(src='@/assets/curso/Tema4/9.png', alt='') 
       .col-lg-7
-        p De acuerdo con Huamán Oscco (2003), se podría definir un módulo como un conjunto de trabajadores determinados a realizar una tarea en específica, lo que a través de esa organización permite una mayor fluidez y sincronización de los productos generados acordes al orden establecido de las operaciones.  
+        p.mb-4 Según Huamán Oscco (2003), un módulo puede definirse como un grupo específico de trabajadores asignados a una tarea particular. Esta estructura organizativa permite una mayor fluidez y sincronización en la producción, asegurando que los productos se generen siguiendo el orden establecido de las operaciones.  
+        p Por otro lado, Bonilla Pastor (2007) describe la producción modular como aquella en la que el personal asume diversas funciones dentro de un módulo de procesamiento, integrado por equipos de trabajadores que realizan diversas actividades necesarias para obtener el producto final. Esta metodología favorece un movimiento continuo y flexible, permitiendo la combinación de modelos dentro de una misma familia de productos. Así, la producción modular minimiza la acumulación de inventario en proceso y fomenta el movimiento del talento humano a lo largo de las distintas etapas del proceso, lo que indica que la producción no sigue un enfoque de producción en serie.
 
-        p Por su parte, la producción modular según Bonilla Pastor (2007), es generada por personal que asume diversas funciones y afirma que un módulo de procesamiento es integrado por diversos equipos de trabajadores, quienes se desempeñarán en diferentes actividades que se necesiten para obtener el producto final o la prenda. De esta manera, se lleva a cabo un movimiento continuo y flexible con la capacidad de combinación de modelos que hacen parte de una misma familia. Por lo tanto, la producción modular no genera una enorme cantidad de inventario de prendas en proceso, por lo que incrementa el movimiento del talento humano en las distintas fases del proceso, lo que da a entender que al finalizar un producto es cuando se puede continuar con otro, no es una producción en serie.
+    .h4.my-5.titulo-caracteristicas Características
 
-    .h4.my-5 Características
+    p Según Bonilla Pastor (2007), el sistema de producción modular incorpora varios criterios para su implementación. Estos incluyen la necesidad de una máquina para operaciones específicas y la definición del producto final después de pasar por toda la secuencia de producción. De esta manera, cada trabajador utiliza la máquina en un momento determinado sin interrupciones hasta finalizar la prenda. Además, el talento humano contribuye a una eficiencia total del 100%, y las piezas que inician el proceso están cortadas cerca del lugar designado para iniciar.
 
-    p De acuerdo con Bonilla Pastor (2007), el sistema de producción modular contempla diversos criterios para su implementación como el requerimiento de una máquina para operaciones específicas, el producto final se define como tal al pasar por toda la secuencia de producción, de esta manera, cada trabajador utilizará la máquina en un momento determinado y este no será interrumpido hasta finalizar la prenda. Igualmente, todo el talento humano genera eficiencia total del 100% y las piezas que darán apertura al proceso estarán cortadas frente al lugar determinado para iniciar.
+    .tarjeta.row.mb-5
+    .col-md.tarjeta.bg3.p-5
+      .row
+        .col-10
 
-    .row.justify-content-center.align-items-center.mt-5
-      .col-lg-10
-        .BorTit Figura 8. Sistemas de producción Modular. Fuente: Ingeniería en la capacitación de operarios para la industria de la confección textil, Huamán Oscco, Wilder. 2003.
-        img.img-t.img-a.mt-4(src='@/assets/ilustraciones/img18.svg', alt='')  
+      .row.justify-content-center.align-items-center.mt-5(data-aos="left")
+        .col-lg-10
+          .BorTit Figura 9. Sistema de producción modular.
+          img.img-t.img-a.mt-4(src='@/assets/curso/Tema4/10.svg', alt='')  
 </template>
 
 <script>
