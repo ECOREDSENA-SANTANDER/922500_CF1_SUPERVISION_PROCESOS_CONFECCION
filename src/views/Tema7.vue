@@ -175,9 +175,9 @@
                   .row.justify-content-between.align-items-center
                     .col.mb-3.mb-sm-0
                       h3.mb-1 Anexo
-                      p.text-small Explorar el siguiente documento llamado “Formato de consumo de sesgos”.
+                      p.text-small Factor de riesgo.
                     .col-sm-auto
-                      a.boton.color-boton.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                      a.boton.color-boton.texto-blanco(:href="obtenerLink('downloads/5_DI_CF_01_7_1_tabla_seguridad_higiene_ruta.xlsx')" target="_blank")
                         span Descargar
                         i.fas.fa-file-download
 

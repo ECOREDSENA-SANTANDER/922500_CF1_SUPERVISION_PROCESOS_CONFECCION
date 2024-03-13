@@ -35,7 +35,7 @@
                   h3.mb-1 Anexo
                   p.text-small Para profundizar en este tema se recomienda descargar y visitar el siguiente archivo, la orden de producción.
                 .col-sm-auto
-                  a.boton.color-boton.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-boton.texto-blanco(:href="obtenerLink('downloads/1_La_Orden_de_Produccion.xlsx')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 
@@ -51,7 +51,7 @@
                   h3.mb-1 Estudio del trabajo
                   p.text-small Visite el siguiente enlace web: Estudio del trabajo: una nueva visión, del sistema de Bibliotecas SENA.
                 .col-sm-auto
-                  a.boton.color-boton.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-boton.texto-blanco(href='https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/39442' target="_blank")
                     span Ver web
                     i.fas.fa-globe
 
@@ -126,7 +126,7 @@
                   h3.mb-1 Procesos productivos de la empresa
                   p.text-small Para abordar en profundidad la explicación de los procesos productivos de la empresa, visitar el portal web de Lafayette Sports.
                 .col-sm-auto
-                  a.boton.color-boton.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-boton.texto-blanco(href="https://www.lafayettesports.com.co/noticias/confeccion-deportiva/como-lograr-colecciones-deportivas-a-traves-de-un-proceso-de-confeccion-efectivo/2/" target="_blank")
                     span Ver web
                     i.fas.fa-file-download
 
@@ -180,7 +180,7 @@
                   h3.mb-1 Anexo
                   p.text-small Se recomienda explorar más el archivo de “Formato de ficha técnica”.
                 .col-sm-auto
-                  a.boton.color-boton.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-boton.texto-blanco(:href="obtenerLink('downloads/2_FORMATO_DE_FICHA_TECNICA_EN_EXCEL.rtf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 
@@ -247,7 +247,7 @@
                   h3.mb-1 Anexo
                   p.text-small Explorar el siguiente documento llamado “Formato de consumo de hilos”.
                 .col-sm-auto
-                  a.boton.color-boton.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-boton.texto-blanco(:href="obtenerLink('downloads/3_FORMATO_DE_CONSUMO_DE_HILOS.xls')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 
@@ -262,7 +262,7 @@
                   h3.mb-1 Anexo
                   p.text-small Explorar el siguiente documento llamado “Formato de consumo de sesgos”.
                 .col-sm-auto
-                  a.boton.color-boton.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-boton.texto-blanco(:href="obtenerLink('downloads/4_FORMATOS_DE_CONSUMO_DE_SESGOS.xlsx')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 
