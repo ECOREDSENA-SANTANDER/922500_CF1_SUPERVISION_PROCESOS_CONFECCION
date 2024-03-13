@@ -498,10 +498,9 @@ export default {
             'Centro Industrial del Diseño y la Manufactura Regional Santander',
         },
         {
-          nombre: 'Edward Leonardo Pico Cabra',
+          nombre: 'Lizeth Karina Manchego Suarez',
           cargo: 'Desarrollo Front-End',
-          centro:
-            'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          centro: 'Centro Agroindustrial Regional Santander',
         },
         {
           nombre: 'Yenny Patricia Ulloa Villamizar',
