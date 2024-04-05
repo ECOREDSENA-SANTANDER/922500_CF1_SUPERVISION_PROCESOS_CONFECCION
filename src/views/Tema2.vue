@@ -40,7 +40,7 @@
 
     .row.justify-content-center.align-items-stretch.mb-4
       .col-sm-12.col-lg-6
-        p.mt-2 Para que un sistema de producción funcione adecuadamente, es fundamental contar con un equipo humano idóneo, dotado de las aptitudes necesarias para operar las máquinas de producción, junto con las herramientas y la tecnología requeridas. Además, se necesitan sistemas de manejo de materiales y sistemas computacionales que permitan coordinar y controlar estos componentes.
+        p.mt-2 Para que un sistema de producción funcione adecuadamente, es fundamental contar con un equipo humano idóneo, dotado de las aptitudes necesarias para operar las máquinas de producción, junto con las herramientas y las tecnologías requeridas. Además, se necesitan sistemas de manejo de materiales y sistemas computacionales que permitan coordinar y controlar estos componentes.
       .col-sm-12.col-lg-5
         img.img-t.img-a.mt-2(src='@/assets/curso/Tema2/3.svg', alt='')
 
@@ -60,7 +60,7 @@
 
       .row.justify-content-center.align-items-center(data-aos="left")
         .col-lg-8
-          .BorTit  #[b Figura 6.]  Estructura del Sistema de Producción.
+          .BorTit  #[b Figura 6.]  Clasificación.
           img.img-t.img-a.mt-4.d-none.d-lg-block(src='@/assets/curso/Tema2/4.svg', alt='Clasificación de los sistemas de producción que se convierten en factores del mismo sistema')
           img.img-t.img-a.mt-4.d-block.d-lg-none(src='@/assets/curso/Tema2/6.svg', alt='Clasificación de los sistemas de producción que se convierten en factores del mismo sistema')
 

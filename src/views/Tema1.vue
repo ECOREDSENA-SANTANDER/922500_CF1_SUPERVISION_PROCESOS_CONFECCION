@@ -26,7 +26,7 @@
 
 
     .titulo-segundo.color-acento-botones#t_1_1.mt-5
-      .h4.text-in 1.1  Producción: Concepto y terminología 
+      .h4.text-in 1.1  Producción: oncepto y terminología 
     
     p Para entender el significado de sistemas de producción primero se revisará el concepto de #[b “producción”]. 
     .row.justify-content-center.align-items-stretch
