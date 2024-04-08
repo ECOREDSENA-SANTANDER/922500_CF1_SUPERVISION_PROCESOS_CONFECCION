@@ -24,7 +24,7 @@
 
     .row 
       .col-10.m-auto
-        p.mt-5 Para profundizar en este tema se recomienda descargar y visitar los siguientes archivos
+        p.mt-5 Para profundizar en este tema se recomienda descargar y visitar los siguientes archivos:
         .tarjeta.tarjeta-color-primera.p-4.mb-5
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-1.d-none.d-lg-block
@@ -140,13 +140,13 @@
     .row.justify-content-center.align-items-stretch.mt-5.mb-5
       .col-lg-4.bloque-texto-c.color-acento-contenido.p-4
           i.fas.fa-quote-right
-          h5.mb-2 Es el documento que da facilidad y precisión en la en la producción de una prenda de vestir
+          h5.mb-2 Es el documento que da facilidad y precisión en la producción de una prenda de vestir.
           span Pinilla (2006, p. 51).
           
 
       .col-lg-8.bloque-texto-c.color-acento-contenido.p-4
           i.fas.fa-quote-right
-          h5.mb-2 “Es un documento escrito (Gráfico), en la cual se registran todas las características técnicas del producto prenda, es el documento que registra todos los procesos de fabricación considerando información relevante desde que nace el requerimiento del cliente (Spec) o idea propia, siguiendo por la fase de desarrollo, producción y despacho”  
+          h5.mb-2 “Es un documento escrito (Gráfico), en la cual se registran todas las características técnicas del producto prenda, es el documento que registra todos los procesos de fabricación considerando información relevante desde que nace el requerimiento del cliente (Spec) o idea propia, siguiendo por la fase de desarrollo, producción y despacho”.
           span Huertas (2019, p. 54)
           
 

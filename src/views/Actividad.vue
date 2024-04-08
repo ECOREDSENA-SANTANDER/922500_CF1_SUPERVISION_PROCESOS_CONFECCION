@@ -11,11 +11,11 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo.color-acento-botones
           h2 Sistemas de producción
-        p.mb-4 Identificar dispositivos, tecnologías y características de los sistemas implicados en los procesos de conectividad de redes en las organizaciones para un uso eficiente de acuerdo a sus condiciones, posibilidades y contexto
+        p.mb-4 Identificar dispositivos, tecnologías y características de los sistemas implicados en los procesos de conectividad de redes en las organizaciones para un uso eficiente de acuerdo a sus condiciones, posibilidades y contexto.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
-              p.fw-bold.mb-0 Relación de conceptos básico
+              p.fw-bold.mb-0 Relación de conceptos básico.
             .col-auto
               a.boton.boton--b(:href="obtenerLink('/actividades/index.html')" target="_blank")
                 span Realizar

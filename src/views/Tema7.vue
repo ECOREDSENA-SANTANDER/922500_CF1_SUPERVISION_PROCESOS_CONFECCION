@@ -89,7 +89,7 @@
    
     .mt-5.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4
-        h3.col.px-4.mb-0.text-white.bg-img-blue(style='width: 450px;') Sistemas de gestión de calidad en la salud
+        h4.col.px-4.mb-0.text-white.bg-img-blue(style='width: 410px;') Sistemas de gestión de calidad en la salud
         img.col-lg.d-flex(src='@/assets/curso/temas/icon-bot.svg').icon-img-blue
     p.my-5 Desarrollando la gestión de calidad en la salud y seguridad en el trabajo, se fundamenta desde la mejora continua planteando políticas organizacionales, enfocadas a la planeación organizacional, donde se desarrollan implementaciones de la aplicabilidad de los fundamentos inicialmente proyectados, para proceder a unas inspecciones y evaluaciones de cumplimiento e iniciar a controlar los puntos que se encuentran funcionando de manera óptima, sin descuidar los riesgos que afecten la seguridad y salud de las personas que conforman el equipo de trabajo.
     p Se representan por las siguientes etapas:
@@ -124,7 +124,7 @@
     .titulo-segundo.color-acento-botones#t_7_1
       .h4 7.1  Seguridad e higiene en la industria
 
-    p.mb-4 La seguridad e higiene en la industria se refiere a las actividades identificadas al seguimiento y control de los factores que representan un riesgo y alteran la salud del equipo de trabajo de la organización empresarial, que puedan verse representadas en enfermedades profesionales o accidentes de trabajo. Esto se da al plantear puntos críticos de riesgo de acuerdo con las maquinas utilizadas o trabajos en alturas o al definir líneas de factores de riesgo para mantener una monitorización.
+    p.mb-4 La seguridad e higiene en la industria se refiere a las actividades identificadas al seguimiento y control de los factores que representan un riesgo y alteran la salud del equipo de trabajo de la organización empresarial, que puedan verse representadas en enfermedades profesionales o accidentes de trabajo. Esto se da al plantear puntos críticos de riesgo de acuerdo con las maquinas utilizadas, trabajos en alturas, al definir líneas de factores de riesgo para mantener una monitorización.
     p Para conocer la seguridad e higiene en la industria es importante identificar los siguientes elementos:
 
     .tarjeta.tarjeta--gris-bg-1.p-4.mt-5
@@ -136,7 +136,7 @@
           .col-md-7.mb-4
             p.mb-3 #[b Medicina preventiva y del trabajo]
             p.mb-3 Actividades fundamentadas a la calidad y seguridad de la vida de los empleados a través de mantenimientos predictivos, preventivos y correctivos de los equipos que se encuentren dentro de los activos de la empresa.
-            p Se genera una relación entre equipos y maquinaria, donde se generan informes de salud y seguridad de los empleados que manipulan dichas maquinarias optimizando los recursos de las empresas, pero también en el autocuidado del personal operativo.
+            p Se generan una relación entre equipos y maquinaria, donde se emiten informes de salud y seguridad de los empleados que manipulan dichas maquinarias optimizando los recursos de las empresas, pero también en el autocuidado del personal operativo.
     
         .row.justify-content-center.align-items-start(titulo="Comité Paritario de Salud Ocupacional (COPASO)")
           .col-md-3
@@ -249,13 +249,13 @@
             ul.lista-ul--color.p-left
               li 
                 i.lista-ul__vineta
-                | Tipo ABC Extintores de Polvo químico seco 
+                | Tipo ABC Extintores de Polvo químico seco. 
               li 
                 i.lista-ul__vineta
-                | Tipo A Extintores de espuma 
+                | Tipo A Extintores de espuma. 
               li 
                 i.lista-ul__vineta
-                | Tipo A B Extintores de dióxido de carbono
+                | Tipo A B Extintores de dióxido de carbono.
 
         .row.justify-content-center.align-items-center(titulo="Evacuación")
           .col-md-3
@@ -351,34 +351,40 @@
 
     p.mb-5 La construcción y parametrización de la dimensión ambiental para procesos de confección y textil, permite la identificación, organización y digitalización de la información ambiental, proyectando indicadores de control con respecto al impacto medioambiental, con ello se definen los siguientes elementos:
 
-    .row.mb-5
-      .col-md-6.col-lg.mb-5.mb-lg-0
-        .tarjeta-avatar
-          img(src='@/assets/curso/Tema7/20.svg' alt='AvatarTop')
-          .tarjeta.color-tarjeta-avatar
-            .p-4
-              h2.text-center.titulo-caracteristicas Línea de base ambiental sectorial
+    .tarjeta.tarjeta--azul-1.p-3.bg1
+      SlyderA
+        .row.justify-content-center.pt-5
+          .col-md-5.my-2.mb-md-0
+              h2.titulo-caracteristicas Línea de base ambiental sectorial
               p La construcción está basada en metodologías que dimensionen y parametricen aspectos medio ambientales, organizando las pautas de identificación para la organización y digitalizar la información de esta. El estado sectorial de la información del gremio, condicionando siguientes variables que tienen como factor común las organizaciones textileras y confeccionistas, (producción de residuos sólidos, líquidos, gaseosos y generación de impacto social). Donde proyecta un control por parte de los entes de planeación territorial.
 
-      .col-md-6.col-lg.mb-5.mb-lg-0
-        .tarjeta-avatar
-          img(src='@/assets/curso/Tema7/21.svg' alt='AvatarTop')
-          .tarjeta.color-tarjeta-avatar
-            .p-4
-              h2.text-center.titulo-caracteristicas Diagnósticos modo sectorial
-              p Busca la estrategia entre el Estado y la gestión empresarial dentro de las pautas medio ambientales, clasificando características que potencialmente generen problemas de alto impacto. Planteando posibles soluciones de acuerdo con las necesidades económicas y sociales.
+          .col-md-5
+            figure
+              img(src='@/assets/curso/Tema7/20.svg', alt='Línea de base ambiental sectorial')
 
-      .col-md-6.col-lg.mb-5.mb-lg-0
-        .tarjeta-avatar
-          img(src='@/assets/curso/Tema7/22.svg' alt='AvatarTop')
-          .tarjeta.color-tarjeta-avatar
-            .p-4
-              h2.text-center.titulo-caracteristicas Visión ambiental por sectores
+        .row.justify-content-center.pt-5
+          .col-md-5.my-2.mb-md-0
+              h2.titulo-caracteristicas Diagnósticos modo sectorial
+              p Busca la estrategia entre el Estado y la gestión empresarial dentro de las pautas medio ambientales, clasificando características que potencialmente generen problemas de alto impacto. Planteando posibles soluciones de acuerdo con las necesidades económicas y sociales.
+          .col-md-5
+            figure
+              img(src='@/assets/curso/Tema7/21.svg', alt='Visión ambiental por sectores')
+        
+        .row.justify-content-center.pt-5
+          .col-md-5.my-2.mb-md-0
+              h2.titulo-caracteristicas Visión ambiental por sectores
               p La visión ambiental sectorizada construye de manera participativa y consensuada planes de trabajo a corto, mediano y largo plazo; a partir de un diagnostico estratégico, que permite definir objetivos, optimizando y mejorando estrategias optimas de trabajo dentro de los sectores textiles y confeccionistas. 
 
 
+          .col-md-5
+            figure
+              img(src='@/assets/curso/Tema7/22.svg', alt='Diagnósticos modo sectorial')
 
-    p.mb-5 En el siguiente esquema, se encuentran las temáticas de capacitación del personal o equipo de trabajo. Se desarrolla la parte de salud ocupacional, seguridad y salud en el trabajo y la clasificación de procesos industriales donde se generan residuos y contaminantes tanto para al ambiente como para la afectación de las personas que componen la organización empresarial. 
+   
+              
+
+
+    p.my-5 En el siguiente esquema, se encuentran las temáticas de capacitación del personal o equipo de trabajo. Se desarrolla la parte de salud ocupacional, seguridad y salud en el trabajo y la clasificación de procesos industriales donde se generan residuos y contaminantes tanto para al ambiente como para la afectación de las personas que componen la organización empresarial. 
 
 
     .row.justify-content-center.align-items-center.mt-5

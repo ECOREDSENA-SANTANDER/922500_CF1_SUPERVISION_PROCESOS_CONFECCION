@@ -337,7 +337,7 @@ export default {
     {
       termino: 'MTM',
       significado:
-        'es el acrónimo en inglés de Methods Time Measurement, es decir, Medida del Tiempo de los Métodos. En el contexto del estudio del trabajo los sistemas de tiempos predeterminados se definen como procedimientos que permiten calcular tiempos teóricos de ejecución de actividades totalmente influenciables por el hombre.',
+        'es el acrónimo en inglés de <i>Methods Time Measurement</i>, es decir, Medida del Tiempo de los Métodos. En el contexto del estudio del trabajo los sistemas de tiempos predeterminados se definen como procedimientos que permiten calcular tiempos teóricos de ejecución de actividades totalmente influenciables por el hombre.',
     },
     {
       termino: 'Peligro',
@@ -372,7 +372,7 @@ export default {
     {
       termino: 'Tiempo de producción',
       significado:
-        'el tiempo de producción ("lead time") es el tiempo que transcurre desde que se inicia un proceso de producción hasta que se completa.',
+        'el tiempo de producción ("<i>lead time</i>") es el tiempo que transcurre desde que se inicia un proceso de producción hasta que se completa.',
     },
     {
       termino: 'Tiempo de espera',
@@ -460,7 +460,7 @@ export default {
         },
         {
           nombre: 'Erika Alexandra Blanco Sánchez',
-          cargo: 'Experto técnico',
+          cargo: 'Experta técnica',
           centro:
             'Regional Antioquia – Centro de Formación en Diseño, Confección y Moda',
         },

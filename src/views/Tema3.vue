@@ -39,13 +39,15 @@
     p La función principal de un modelo es representar o explicar una realidad, sirviendo como una réplica de los factores que caracterizan un proceso, por ello en un modelo se destacan las relaciones entre causa y efecto, así como las metas a alcanzar y las posibles restricciones.
 
     .row.justify-content-center.align-items-center
-    .col-sm-12.col-lg-10
-        .bloque-texto-b.color-primario.p-4
-          .bloque-texto-b__texto
-            i.fas.fa-quote-left
-            h4.mb-4 <br> A través del uso de modelos es como se identifican posibles soluciones, teniendo en cuenta la magnitud o dificultad de un determinado problema, por consiguiente, al definir en qué radica el dicho problema es cómo se reconocen los tipos de modelos que se ajustan mejor a la situación planteada
-            <br>
-            span NAHMIAS, 1999
+      .col-sm-12.col-lg-10
+          .bloque-texto-b.color-primario.p-4
+            .bloque-texto-b__texto
+              i.fas.fa-quote-left
+              h4.mb-4 <br> A través del uso de modelos es como se identifican posibles soluciones, teniendo en cuenta la magnitud o dificultad de un determinado problema, por consiguiente, al definir en qué radica el dicho problema es cómo se reconocen los tipos de modelos que se ajustan mejor a la situación planteada.
+              <br>
+              span NAHMIAS, 1999
+              i.fas.fa-quote-right
+
            
 
     .row.justify-content-center.align-items-center.mt-5
