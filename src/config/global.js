@@ -466,7 +466,7 @@ export default {
         },
         {
           nombre: 'Maria Camila Alvarez Trujillo',
-          cargo: 'Contratista Diseño Curricular',
+          cargo: 'Diseñadora Curricular',
           centro:
             'Regional Antioquia – Centro de Formación en Diseño, Confección y Moda',
         },
@@ -481,30 +481,19 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Francisco José Lizcano Reyes',
-          cargo: 'Responsable del equipo',
-          centro:
-            'Centro Industrial del Diseño y la Manufactura Regional Santander',
-        },
-        {
-          nombre: 'Leyson Fabian Castaño Perez',
-          cargo: 'Soporte organizacional',
-          centro: 'Centro de Comercio y Servicios Regional Tolima',
-        },
-        {
           nombre: 'Oscar Ivan Uribe Ortiz',
-          cargo: 'Diseño web',
+          cargo: 'Diseñador web',
           centro:
             'Centro Industrial del Diseño y la Manufactura Regional Santander',
         },
         {
           nombre: 'Lizeth Karina Manchego Suarez',
-          cargo: 'Desarrollo Front-End',
+          cargo: 'Desarrolladora Full-Stack',
           centro: 'Centro Agroindustrial Regional Santander',
         },
         {
           nombre: 'Yenny Patricia Ulloa Villamizar',
-          cargo: 'Validación de diseño y contenido',
+          cargo: 'Validadora de diseño y contenido',
           centro:
             'Centro Industrial del Diseño y la Manufactura Regional Santander',
         },
@@ -515,7 +504,7 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Validación y vinculación en plataforma LMS',
+          cargo: 'Validadora y vinculadora en plataforma LMS',
           centro: 'Centro de Comercio y Servicios Regional Tolima',
         },
       ],
