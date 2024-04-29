@@ -16,7 +16,7 @@
 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-10
-        .BorTit  #[b Figura 10.]  Orden de producción camiseta tipo polo dama. Fuente: SENA 2021, Fernellis Mauricio Echeverry.
+        .BorTit  #[b Figura 11.]  Orden de producción camiseta tipo polo dama. Fuente: SENA 2021, Fernellis Mauricio Echeverry.
         img.img-t.img-a.mt-4(src='@/assets/curso/Tema6/2.svg', alt='Orden de producción camiseta tipo polo dama. Fuente: SENA 2021, Fernellis Mauricio Echeverry.') 
 
     
@@ -73,7 +73,7 @@
 
     .row.justify-content-center.align-items-center.mt-5.mb-5
       .col-lg-8
-        .BorTit  #[b Figura 11.]   Hoja de Ruta. Fuente: SENA 2021, Fernellis Mauricio Echeverry.
+        .BorTit  #[b Figura 12.]   Hoja de Ruta. Fuente: SENA 2021, Fernellis Mauricio Echeverry.
         .tabla-b.mt-4
           .tabla-b__header.bg-table
             h5.mb-0.text-color Hoja de Ruta

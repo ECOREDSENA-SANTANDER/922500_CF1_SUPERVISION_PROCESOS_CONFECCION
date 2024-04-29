@@ -115,7 +115,7 @@
 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-6
-        .BorTit  #[b Figura 12.]  Etapas de sistema de gestión de calidad en salud. Fuente: SENA 2021, Fernellis Mauricio Echeverry.
+        .BorTit  #[b Figura 13.]  Etapas de sistema de gestión de calidad en salud. Fuente: SENA 2021, Fernellis Mauricio Echeverry.
 
         img.img-t.img-a.mt-4(src='@/assets/curso/Tema7/7.svg', alt='')  
     
@@ -389,7 +389,7 @@
 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-8
-        .BorTit  #[b Figura 13.]  Plan de capacitación plantas de confección. Fuente: SENA 2021, Erika Blanco.
+        .BorTit  #[b Figura 14.]  Plan de capacitación plantas de confección. Fuente: SENA 2021, Erika Blanco.
 
         img.img-t.img-a.mt-4.d-none.d-lg-block(src='@/assets/curso/Tema7/23.svg', alt='') 
         img.img-t.img-a.mt-4.d-block.d-lg-none(src='@/assets/curso/Tema7/32.svg', alt='') 

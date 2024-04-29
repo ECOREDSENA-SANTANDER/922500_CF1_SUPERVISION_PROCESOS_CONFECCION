@@ -387,37 +387,19 @@ export default {
   ],
   complementario: [
     {
-      tema: '',
+      tema: 'Comportamiento exportador de confecciones de prendas de vestir',
       referencia:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Redondo Gómez, J. J., & Vásquez Ramírez, Á. (2022). Determinantes del comportamiento exportador de las Pymes pertenecientes al sector “Confección de prendas de vestir” en el periodo 2016-2020 (Doctoral dissertation, Universidad EAFIT).',
+      tipo: 'Artículo',
+      link:
+        'https://repository.eafit.edu.co/items/7d430796-8381-4c52-a2a6-d9ca1dde1d58',
     },
     {
-      tema: '',
+      tema: 'Programación deconfección en el enfoque de celdas',
       referencia:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      tema: '',
-      referencia:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
-    },
-    {
-      tema: '',
-      referencia: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      tema: '',
-      referencia: '2 minutos para entender el desarrollo sostenible – Spanish',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Cáceres Gelvez, S. E. (2021). Modelo para la programación de la producción en enfoques de celdas de manufactura, integrando el diseño de plantas esbeltas, para el caso del sector de la confección de prendas de vestir (Doctoral dissertation, Universidad Nacional de Colombia).',
+      tipo: 'Artículo',
+      link: 'https://repositorio.unal.edu.co/handle/unal/79499',
     },
   ],
   creditos: [
