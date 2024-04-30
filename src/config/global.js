@@ -472,10 +472,9 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Yenny Patricia Ulloa Villamizar',
+          nombre: 'Yuly Andrea Rey Quiñonez',
           cargo: 'Validadora de diseño y contenido',
-          centro:
-            'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
