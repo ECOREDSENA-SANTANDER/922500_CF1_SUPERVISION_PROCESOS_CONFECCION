@@ -52,7 +52,7 @@
                   p.text-small Visite el siguiente enlace web: Estudio del trabajo: una nueva visión, del sistema de Bibliotecas SENA.
                 .col-sm-auto
                   a.boton.color-boton.texto-blanco(href='https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/39442' target="_blank")
-                    span Ver web
+                    span Ir al sitio
                     i.fas.fa-globe
 
      
@@ -127,7 +127,7 @@
                   p.text-small Para abordar en profundidad la explicación de los procesos productivos de la empresa, visitar el portal web de Lafayette Sports.
                 .col-sm-auto
                   a.boton.color-boton.texto-blanco(href="https://www.lafayettesports.com.co/noticias/confeccion-deportiva/como-lograr-colecciones-deportivas-a-traves-de-un-proceso-de-confeccion-efectivo/2/" target="_blank")
-                    span Ver web
+                    span Ir al sitio
                     i.fas.fa-file-download
 
     Separador
