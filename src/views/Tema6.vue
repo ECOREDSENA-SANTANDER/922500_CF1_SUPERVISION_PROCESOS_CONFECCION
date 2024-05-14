@@ -138,16 +138,24 @@
     p La ficha cuenta con el orden específico en que se van realizando las prendas: diseño, patronaje, trazo, corte, tiqueteado, confección, y terminación. De esta forma, la ficha técnica es un elemento primordial para el departamento de diseño al informar de una manera estandarizada y sencilla las características técnicas de un producto a confeccionar, es de destacar que esta información tiene utilidad a nivel comercial y productivo.
 
     .row.justify-content-center.align-items-stretch.mt-5.mb-5
-      .col-lg-4.bloque-texto-c.color-acento-contenido.p-4
-          i.fas.fa-quote-right
-          h5.mb-2 Es el documento que da facilidad y precisión en la producción de una prenda de vestir.
-          span Pinilla (2006, p. 51).
+      .col-lg-4
+        .bloque-texto-d.color-acento-contenido.p-4
+          .bloque-texto-d__texto.mb-2
+            i.fas.fa-quote-left
+            h3.text-regular Es el documento que da facilidad y precisión en la producción de una prenda de vestir.
+            i.fas.fa-quote-right
+          .bloque-texto-d__autor 
+            .h5.mb-0 Pinilla (2006, p. 51).
           
 
-      .col-lg-8.bloque-texto-c.color-acento-contenido.p-4
-          i.fas.fa-quote-right
-          h5.mb-2 “Es un documento escrito (Gráfico), en la cual se registran todas las características técnicas del producto prenda, es el documento que registra todos los procesos de fabricación considerando información relevante desde que nace el requerimiento del cliente (Spec) o idea propia, siguiendo por la fase de desarrollo, producción y despacho”.
-          span Huertas (2019, p. 54)
+      .col-lg-8
+        .bloque-texto-d.color-acento-contenido.p-4
+          .bloque-texto-d__texto.mb-2
+            i.fas.fa-quote-left
+            h3.text-regular Es un documento escrito (Gráfico), en la cual se registran todas las características técnicas del producto prenda, es el documento que registra todos los procesos de fabricación considerando información relevante desde que nace el requerimiento del cliente (Spec) o idea propia, siguiendo por la fase de desarrollo, producción y despacho.
+            i.fas.fa-quote-right
+          .bloque-texto-d__autor 
+            .h5.mb-0 Huertas (2019, p. 54)
           
 
 

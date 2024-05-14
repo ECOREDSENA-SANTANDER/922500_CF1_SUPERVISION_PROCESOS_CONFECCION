@@ -7,10 +7,13 @@
         span.numero 2
       h1.text-in Estructura del Sistema de Producción
     .row.justify-content-center.align-items-stretch.mb-4
-      .col-12.bloque-texto-c.color-acento-contenido.p-4
+      .bloque-texto-d.color-acento-contenido.p-4
+        .bloque-texto-d__texto.mb-2
+          i.fas.fa-quote-left
+          h3.text-regular La estructura del sistema de producción se define como la composición de insumos interrelacionados, que se acogen del medio externo y se manipulan para transformarse en elementos con valor agregado, con el fin de alcanzar metas comunes al desarrollar una salida de modo tangible o intangible hacia el exterior.  
           i.fas.fa-quote-right
-          h5.mb-2 La estructura del sistema de producción se define como la composición de insumos interrelacionados, que se acogen del medio externo y se manipulan para transformarse en elementos con valor agregado, con el fin de alcanzar metas comunes al desarrollar una salida de modo tangible o intangible hacia el exterior.  
-          span Everett E. (1991).
+        .bloque-texto-d__autor 
+          .h5.mb-0 (Everett E. Adam, 1991).
 
     p Este concepto puede entenderse a través de un esquema que grafica su funcionamiento dentro de la empresa por medio de un conjunto como el que se presenta a continuación:
               

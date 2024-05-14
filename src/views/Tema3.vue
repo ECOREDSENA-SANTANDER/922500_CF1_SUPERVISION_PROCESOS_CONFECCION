@@ -12,10 +12,14 @@
 
 
     .row.justify-content-center.align-items-stretch.mt-5
-      .col-sm-12.col-lg-8.bloque-texto-c.color-acento-contenido.p-4
-          i.fas.fa-quote-right
-          h5.mb-2 Los modelos se estructuran según la realidad y la abstracción, y estos factores permiten desde un problema presentado en la realidad, permite que la abstracción simule por medio de una formulación la proyección de modelos que serán verificados en la realidad. 
-          span NAHMIAS, 1999
+      .col-sm-12.col-lg-8
+        .bloque-texto-d.color-acento-contenido.p-4
+          .bloque-texto-d__texto.mb-2
+            i.fas.fa-quote-left
+            h3.text-regular  Los modelos se estructuran según la realidad y la abstracción, y estos factores permiten desde un problema presentado en la realidad, permite que la abstracción simule por medio de una formulación la proyección de modelos que serán verificados en la realidad. 
+            i.fas.fa-quote-right
+          .bloque-texto-d__autor 
+            .h5.mb-0 NAHMIAS, 1999
          
 
     .tarjeta.row.mb-5
@@ -39,10 +43,14 @@
     p La función principal de un modelo es representar o explicar una realidad, sirviendo como una réplica de los factores que caracterizan un proceso, por ello en un modelo se destacan las relaciones entre causa y efecto, así como las metas a alcanzar y las posibles restricciones.
 
     .row.justify-content-center.align-items-center
-      .col-sm-12.col-lg-10.bloque-texto-c.color-acento-contenido.p-4
-              i.fas.fa-quote-left
-              h4.mb-2 A través del uso de modelos es como se identifican posibles soluciones, teniendo en cuenta la magnitud o dificultad de un determinado problema, por consiguiente, al definir en qué radica el dicho problema es cómo se reconocen los tipos de modelos que se ajustan mejor a la situación planteada.
-              span NAHMIAS, 1999
+      .col-sm-12.col-lg-10
+        .bloque-texto-d.color-acento-contenido.p-4
+          .bloque-texto-d__texto.mb-2
+            i.fas.fa-quote-left
+            h3.text-regular A través del uso de modelos es como se identifican posibles soluciones, teniendo en cuenta la magnitud o dificultad de un determinado problema, por consiguiente, al definir en qué radica el dicho problema es cómo se reconocen los tipos de modelos que se ajustan mejor a la situación planteada.
+            i.fas.fa-quote-right
+          .bloque-texto-d__autor 
+            .h5.mb-0 NAHMIAS, 1999
 
            
 

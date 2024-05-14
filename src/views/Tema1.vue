@@ -30,15 +30,23 @@
     
     p Para entender el significado de sistemas de producción primero se revisará el concepto de #[b “producción”]. 
     .row.justify-content-center.align-items-stretch
-      .col-lg-4.bloque-texto-c.color-acento-contenido.p-4.mt-5
-          i.fas.fa-quote-right
-          h5.mb-2 La producción se define como un componente importante de la empresa al desarrollar o fabricar un bien intangible. 
-          span - Tawfik (1987).
+      .col-lg-4.mt-5
+        .bloque-texto-d.color-acento-contenido.p-4
+          .bloque-texto-d__texto.mb-2
+            i.fas.fa-quote-left
+            h3.text-regular La producción se define como un componente importante de la empresa al desarrollar o fabricar un bien intangible. 
+            i.fas.fa-quote-right
+          .bloque-texto-d__autor 
+            span.h5.mb-0 Tawfik (1987).
 
-      .col-lg-4.bloque-texto-c.color-acento-contenido.p-4.mt-5
-          i.fas.fa-quote-right
-          h5.mb-2 La define como un hecho realizado con la intención de transformar diversos elementos para generar un bien tangible e intangible que satisfaga una necesidad humana. 
-          span Everett E. (1991).
+      .col-lg-4.mt-5
+        .bloque-texto-d.color-acento-contenido.p-4
+          .bloque-texto-d__texto.mb-2
+            i.fas.fa-quote-left
+            h3.text-regular  La define como un hecho realizado con la intención de transformar diversos elementos para generar un bien tangible e intangible que satisfaga una necesidad humana. 
+            i.fas.fa-quote-right
+          .bloque-texto-d__autor 
+            span.h5.mb-0 Everett E. (1991).
           
 
     .row.justify-content-center.align-items-center.mt-5

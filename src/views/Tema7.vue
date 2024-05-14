@@ -43,11 +43,11 @@
                 img.img-t.img-a.my-2(src='@/assets/curso/Tema7/1.png', alt='') 
 
 
-    .row.justify-content-center.align-items-stretch.mt-5
+    .row.justify-content-center.align-items-stretch.mt-5.mb-5
       .col-12.cuadro-gestion.p-4
           p.mb-2 Por otro lado, el manejo del riesgo es un proceso que está definido de manera secuencial, monitoreando el control de riesgo interno de los diversos cargos laborales de la organización. De esta forma, se ha diseñado diversas estrategias que proporcionan metodologías a procesos de trabajo, bien sea de procesos manufacturados como procesos de prestación de servicio, siempre en pro de evaluar las mejores prácticas de trabajo basados en la mejora continua.
     
-    
+    p.mb-5 La construcción de las herramientas de trabajo se plantea de acuerdo con las necesidades de los procesos y procedimientos en la capacidad intelectual del talento humano de las organizaciones, proyectando actividades, logros u objetivos; basados en la visión de la organización, se podrían definir los siguientes objetivos: 
     
     .row.justify-content-center.align-items-center.mt-5
 
