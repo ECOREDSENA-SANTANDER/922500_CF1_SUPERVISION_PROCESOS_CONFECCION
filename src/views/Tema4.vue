@@ -58,7 +58,7 @@
         .row.justify-content-center.align-items-center
           .col-12
             figure
-              img(src='@/assets/curso/Tema4/12.png', alt='Sistema de producción lineal') 
+              img(src='@/assets/curso/Tema4/12.png', alt='Muestra un flujo de trabajo en una línea de producción. El proceso comienza con "Materia prima," que pasa por un "Torno," luego a una "Prensa," y finalmente a un "Cepillo." A partir del cepillo, los productos van al "Embalaje" antes de convertirse en el "Producto acabado." El flujo está representado por flechas que indican la dirección del proceso. Al fondo, hay una cinta transportadora que sugiere el movimiento continuo de los materiales a través de estas etapas.') 
 
 
     Separador    
@@ -81,7 +81,7 @@
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-8
         .BorTit  #[b Figura 9.]  Sistema de producción por celda.
-        img.img-t.img-a.mt-4(src='@/assets/curso/Tema4/8.svg', alt='El sistema de producción por celdas, el cual se subdivide  en  5 operaciones cada una con un recuadro que simulan las celdas cada una con un color de referencia y al frente se detallan cuatro fases  enumeradas así: Punto 1, punto 2, punto 3 y punto 4, las cuatro fases cuentan con las celdas de colores indicando que tienen las 5 Operaciones.')  
+        img.img-t.img-a.mt-4(src='@/assets/curso/Tema4/8.svg', alt='El sistema de producción por celdas, el cual se subdivide en 5 operaciones cada una con un recuadro que simulan las celdas cada una con un color de referencia y al frente se detallan cuatro fases enumeradas así: Punto 1, punto 2, punto 3 y punto 4, las cuatro fases cuentan con las celdas de colores indicando que tienen las 5 Operaciones.')  
 
 
     Separador    
@@ -111,7 +111,7 @@
       .row.justify-content-center.align-items-center.mt-5(data-aos="left")
         .col-lg-10
           .BorTit  #[b Figura 10.]  Sistema de producción modular.
-          img.img-t.img-a.mt-4(src='@/assets/curso/Tema4/10.svg', alt='Se describe el sistema de producción modular, en donde siete personas están sentadas en una mesa ovalada uno en la cabecera, tres personas al lado derecho y tres personas al lado izquierdo, estas ultimas personas de este lado izquierdo tiene la numeración de izquierda a derecha del 1 al 3, quien esta en la cabecera tiene el numero 4,  los tres de la derecha de la mesa tienen en su orden los números 5, 6 y 7 de derecha a izquierda.  La imagen cuenta con una flecha  que inicia detrás de la persona  1, va de izquierda a derecha, por detrás de las personas 1, 2,  3 y 4   y continua girando, detrás de los números 5, 6 y 7 bordeando la  mesa, hasta terminar en el número 7.  En medio de cada uno de ellos existe un espacio y en la mesa encima cuentan con una llave inglesa')  
+          img.img-t.img-a.mt-4(src='@/assets/curso/Tema4/10.svg', alt='Se describe el sistema de producción modular, en donde siete personas están sentadas en una mesa ovalada uno en la cabecera, tres personas al lado derecho y tres personas al lado izquierdo, estas ultimas personas de este lado izquierdo tiene la numeración de izquierda a derecha del 1 al 3, quien esta en la cabecera tiene el numero 4, los tres de la derecha de la mesa tienen en su orden los números 5, 6 y 7 de derecha a izquierda. La imagen cuenta con una flecha que inicia detrás de la persona 1, va de izquierda a derecha, por detrás de las personas 1, 2, 3 y 4 y continua girando, detrás de los números 5, 6 y 7 bordeando la mesa, hasta terminar en el número 7. En medio de cada uno de ellos existe un espacio y en la mesa encima cuentan con una llave inglesa.')  
 </template>
 
 <script>

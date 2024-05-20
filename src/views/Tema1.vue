@@ -19,7 +19,7 @@
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-8
         .BorTit.mt-5  #[b Figura 1.] Desarrollo  
-        img.img-t.img-a.mt-4(src='@/assets/curso/Tema1/2.svg', alt='Desarrollo') 
+        img.img-t.img-a.mt-4(src='@/assets/curso/Tema1/2.svg', alt='Consiste en un componente central con un engranaje y tres cuadros alrededor, conectados por flechas. Los cuadros contienen los siguientes textos: "En el desarrollo de este componente formativo se realizará una," "la importancia para el desempeño del supervisor de procesos de confección de prendas de vestir," y "contextualización de los términos y conceptos de los sistemas de producción, junto con." El engranaje central parece representar el núcleo del proceso de desarrollo descrito.') 
 
 
     Separador
@@ -52,7 +52,7 @@
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-8
         .BorTit  #[b Figura 2.]  Producción.
-        img.img-t.img-a.mt-4(src='@/assets/curso/Tema1/3.svg', alt='Producción' data-aos="slide-left")  
+        img.img-t.img-a.mt-4(src='@/assets/curso/Tema1/3.svg', alt='Consiste en tres flechas numeradas y secuenciales: la primera flecha, marcada como "1," contiene el texto "Inputs (Entradas);" la segunda flecha, marcada como "2," contiene el texto "Creación de valor (Agregar Valor);" y la tercera flecha, marcada como "3," contiene el texto "Outputs (Salidas)."' data-aos="slide-left")  
 
     Separador
 
@@ -75,8 +75,8 @@
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-8
         .BorTit.mt-5  #[b Figura 3.]  Esquema de producción.
-        img.img-t.img-a.mt-4.d-none.d-lg-block(src='@/assets/curso/Tema1/5.svg', alt='En la imagen se describe tres sectores de la economía que llevan al proceso de producción, en el primer sector denominado Primario se ubica la agricultura o industria extractiva, el siguiente es el sector Secundario que hace referencia a la industria manufacturera, para finalmente llegar al sector Terciario en donde se ubica el comercio, servicios públicos, transporte Créditos, Turismo entre otros')  
-        img.img-t.img-a.mt-4.d-block.d-lg-none(src='@/assets/curso/Tema1/9.svg', alt='En la imagen se describe tres sectores de la economía que llevan al proceso de producción, en el primer sector denominado Primario se ubica la agricultura o industria extractiva, el siguiente es el sector Secundario que hace referencia a la industria manufacturera, para finalmente llegar al sector Terciario en donde se ubica el comercio, servicios públicos, transporte Créditos, Turismo entre otros')  
+        img.img-t.img-a.mt-4.d-none.d-lg-block(src='@/assets/curso/Tema1/5.svg', alt='La imagen muestra un esquema de producción dividido en tres sectores: primario (industria extractiva), secundario (industria manufacturera) y terciario (comercio, servicios públicos, transporte, créditos, seguros y finanzas, turismo, y otros).')  
+        img.img-t.img-a.mt-4.d-block.d-lg-none(src='@/assets/curso/Tema1/9.svg', alt='La imagen muestra un esquema de producción dividido en tres sectores: primario (industria extractiva), secundario (industria manufacturera) y terciario (comercio, servicios públicos, transporte, créditos, seguros y finanzas, turismo, y otros).')  
     
     Separador
 
@@ -96,8 +96,8 @@
       .row.justify-content-center.align-items-center.mt-5(data-aos="left")
         .col-lg-8
           .BorTit  #[b Figura 4.]  Objetivo de la producción. 
-          img.img-t.img-a.mt-4.d-none.d-lg-block(src='@/assets/curso/Tema1/6.svg', alt='Se expone un gráfico de procesos,  en donde existe una entrada de insumos, terrenos, mano de obra, capital, materiales y equipos  de allí pasa a Transformación que es un proceso de  conversión, para finalmente ingresar a la estación de salida donde se obtiene el producto final.')  
-          img.img-t.img-a.mt-4.d-block.d-lg-none(src='@/assets/curso/Tema1/10.svg', alt='En la imagen se describe tres sectores de la economía que llevan al proceso de producción, en el primer sector denominado Primario se ubica la agricultura o industria extractiva, el siguiente es el sector Secundario que hace referencia a la industria manufacturera, para finalmente llegar al sector Terciario en donde se ubica el comercio, servicios públicos, transporte Créditos, Turismo entre otros')  
+          img.img-t.img-a.mt-4.d-none.d-lg-block(src='@/assets/curso/Tema1/6.svg', alt='Se expone un gráfico de procesos, en donde existe una entrada de insumos, terrenos, mano de obra, capital, materiales y equipos de allí pasa a Transformación que es un proceso de conversión, para finalmente ingresar a la estación de salida donde se obtiene el producto final.')  
+          img.img-t.img-a.mt-4.d-block.d-lg-none(src='@/assets/curso/Tema1/10.svg', alt='Se expone un gráfico de procesos, en donde existe una entrada de insumos, terrenos, mano de obra, capital, materiales y equipos de allí pasa a Transformación que es un proceso de conversión, para finalmente ingresar a la estación de salida donde se obtiene el producto final.')  
     
 </template>
 

@@ -21,8 +21,8 @@
     .row.justify-content-center.align-items-center.mt-5.mb-5
       .col-lg-8
         .BorTit.mt-5  #[b Figura 5.]  Estructura del Sistema de Producción.
-        img.img-t.img-a.mt-4.d-none.d-lg-block(src='@/assets/curso/Tema2/1.svg', alt='Se expone la palabra sub- producto de donde se desprenden cinco términos que lo rodean:   Sub- Inversión, Sub - Información, Sub - Recursos Humanos, Sub - Dirección, Sub - Comercial') 
-        img.img-t.img-a.mt-4.d-block.d-lg-none(src='@/assets/curso/Tema2/5.svg', alt='En la imagen se describe tres sectores de la economía que llevan al proceso de producción, en el primer sector denominado Primario se ubica la agricultura o industria extractiva, el siguiente es el sector Secundario que hace referencia a la industria manufacturera, para finalmente llegar al sector Terciario en donde se ubica el comercio, servicios públicos, transporte Créditos, Turismo entre otros')  
+        img.img-t.img-a.mt-4.d-none.d-lg-block(src='@/assets/curso/Tema2/1.svg', alt='La imagen muestra la estructura del sistema de producción de una empresa, compuesta por varias subáreas: sub-comercial, sub-inversión, sub-información, sub-recursos humanos y sub-dirección. Todas estas subáreas están interconectadas con la sub-producción, que se encuentra en el centro del esquema.') 
+        img.img-t.img-a.mt-4.d-block.d-lg-none(src='@/assets/curso/Tema2/5.svg', alt='La imagen muestra la estructura del sistema de producción de una empresa, compuesta por varias subáreas: sub-comercial, sub-inversión, sub-información, sub-recursos humanos y sub-dirección. Todas estas subáreas están interconectadas con la sub-producción, que se encuentra en el centro del esquema.')  
     
 
     .tarjeta.bg6.py-4.mb-5
@@ -64,8 +64,8 @@
       .row.justify-content-center.align-items-center(data-aos="left")
         .col-lg-8
           .BorTit  #[b Figura 6.]  Clasificación.
-          img.img-t.img-a.mt-4.d-none.d-lg-block(src='@/assets/curso/Tema2/4.svg', alt='Clasificación de los sistemas de producción que se convierten en factores del mismo sistema')
-          img.img-t.img-a.mt-4.d-block.d-lg-none(src='@/assets/curso/Tema2/6.svg', alt='Clasificación de los sistemas de producción que se convierten en factores del mismo sistema')
+          img.img-t.img-a.mt-4.d-none.d-lg-block(src='@/assets/curso/Tema2/4.svg', alt='Consiste en cuatro cuadros numerados y secuenciales: el primer cuadro, marcado como "1," indica "Se enfoca al tipo de operación que se realiza en el proceso;" el segundo cuadro, marcado como "2," dice "El factor se basa en la cantidad de estaciones de trabajo y su distribución;" el tercer cuadro, marcado como "3," señala "Apunta al grado de automatización;" y el cuarto cuadro, marcado como "4," menciona "Especifica la variedad de los productos.')
+          img.img-t.img-a.mt-4.d-block.d-lg-none(src='@/assets/curso/Tema2/6.svg', alt='Consiste en cuatro cuadros numerados y secuenciales: el primer cuadro, marcado como "1," indica "Se enfoca al tipo de operación que se realiza en el proceso;" el segundo cuadro, marcado como "2," dice "El factor se basa en la cantidad de estaciones de trabajo y su distribución;" el tercer cuadro, marcado como "3," señala "Apunta al grado de automatización;" y el cuarto cuadro, marcado como "4," menciona "Especifica la variedad de los productos.')
 
     
 </template>

@@ -117,7 +117,7 @@
       .col-lg-6
         .BorTit  #[b Figura 13.]  Etapas de sistema de gestión de calidad en salud. Fuente: SENA 2021, Fernellis Mauricio Echeverry.
 
-        img.img-t.img-a.mt-4(src='@/assets/curso/Tema7/7.svg', alt='')  
+        img.img-t.img-a.mt-4(src='@/assets/curso/Tema7/7.svg', alt='La imagen muestra las etapas de un sistema de gestión de calidad en salud, que incluyen "Incidente," "Detener el proceso," "Accidente," y "Casi Accidente."')  
     
     Separador
 
@@ -391,8 +391,8 @@
       .col-lg-8
         .BorTit  #[b Figura 14.]  Plan de capacitación plantas de confección. Fuente: SENA 2021, Erika Blanco.
 
-        img.img-t.img-a.mt-4.d-none.d-lg-block(src='@/assets/curso/Tema7/23.svg', alt='') 
-        img.img-t.img-a.mt-4.d-block.d-lg-none(src='@/assets/curso/Tema7/32.svg', alt='') 
+        img.img-t.img-a.mt-4.d-none.d-lg-block(src='@/assets/curso/Tema7/23.svg', alt='Plan de capacitación plantas de confección. Fuente: SENA 2021, Erika Blanco." Se compone de dos secciones principales: "Capacitación del personal," que incluye plan de capacitación, análisis de habilidades y métodos de capacitación, y "Salud ocupacional y seguridad industrial," que abarca conceptos generales, normas ISO 14000-18000 y panorama de riesgos.') 
+        img.img-t.img-a.mt-4.d-block.d-lg-none(src='@/assets/curso/Tema7/32.svg', alt='Plan de capacitación plantas de confección. Fuente: SENA 2021, Erika Blanco." Se compone de dos secciones principales: "Capacitación del personal," que incluye plan de capacitación, análisis de habilidades y métodos de capacitación, y "Salud ocupacional y seguridad industrial," que abarca conceptos generales, normas ISO 14000-18000 y panorama de riesgos.') 
 
 
 

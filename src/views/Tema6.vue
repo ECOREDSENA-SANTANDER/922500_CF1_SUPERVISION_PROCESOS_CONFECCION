@@ -17,7 +17,7 @@
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-10
         .BorTit  #[b Figura 11.]  Orden de producción camiseta tipo polo dama. Fuente: SENA 2021, Fernellis Mauricio Echeverry.
-        img.img-t.img-a.mt-4(src='@/assets/curso/Tema6/2.svg', alt='Orden de producción camiseta tipo polo dama. Fuente: SENA 2021, Fernellis Mauricio Echeverry.') 
+        img.img-t.img-a.mt-4(src='@/assets/curso/Tema6/2.svg', alt='La imagen muestra una orden de producción para camisetas tipo polo dama, expedida el 26 de marzo de 2021 con destino a Almacenes ABC. Detalla la producción de 2469 unidades y lista los materiales necesarios, como tela, botones y hilo, junto con sus cantidades y costos.') 
 
     
 
