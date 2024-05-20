@@ -77,8 +77,7 @@
         .tabla-b.mt-4
           .tabla-b__header.bg-table
             h5.mb-0.text-color Hoja de Ruta
-          table
-
+          table(alt='La imagen muestra una "Hoja de Ruta" titulada "Figura 12. Hoja de Ruta. Fuente: SENA 2021, Fernellis Mauricio Echeverry." Presenta una tabla con cuatro etapas del proceso de producción de camisetas tipo polo dama, cada una con su duración en días: 1. Diseño - 1 día, 2. Patronaje - 1 día, 3. Tiempos de reposo de las telas - 2 días, 4. Extendido de la tela - 1 día')
             tr.celda-oscura
               th.text-center 
                 h4 Orden
