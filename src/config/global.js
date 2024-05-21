@@ -414,7 +414,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo: 'Responsable de Línea de Producción',
-          centro: 'Centro Agroturístico - Regional Santander',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
@@ -423,25 +423,25 @@ export default {
       autores: [
         {
           nombre: 'Rafael Neftalí Lizcano Reyes',
-          cargo: 'Asesor metodológico y pedagógico',
+          cargo: 'Asesor Metodológico y Pedagógico',
           centro:
-            'Centro Industrial del Diseño y la Manufactura Regional Santander',
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura ',
         },
         {
           nombre: 'Carlos Parra Carrillo',
-          cargo: 'Instructor técnico ',
+          cargo: 'Instructor Técnico ',
           centro:
             'Regional Norte de Santander - Centro de la industria, la empresa y los servicios',
         },
         {
           nombre: 'Fernelis Mauricio Echeverri',
-          cargo: 'Instructor técnico',
+          cargo: 'Instructor Técnico',
           centro:
             'Regional Antioquia – Centro de Formación en Diseño, Confección y Moda',
         },
         {
           nombre: 'Erika Alexandra Blanco Sánchez',
-          cargo: 'Experta técnica',
+          cargo: 'Experta Técnica',
           centro:
             'Regional Antioquia – Centro de Formación en Diseño, Confección y Moda',
         },
@@ -456,6 +456,12 @@ export default {
           cargo: 'Diseñadora Instruccional',
           centro: 'Regional Distrito Capital-Centro de Gestión Industrial ',
         },
+
+        {
+          nombre: 'Sandra Paola Morales Páez',
+          cargo: 'Evaluadora Instruccional',
+          centro: 'Regional Santander - Centro Agroturístico',
+        },
       ],
     },
     {
@@ -463,18 +469,18 @@ export default {
       autores: [
         {
           nombre: 'Yazmin Figueroa Pacheco',
-          cargo: 'Diseñadora web',
-          centro: 'Centro Agroturístico - Regional Santander',
+          cargo: 'Diseñadora Web',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
         {
           nombre: 'Lizeth Karina Manchego Suarez',
           cargo: 'Desarrolladora Full-Stack',
-          centro: 'Centro Agroturístico - Regional Santander',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
         {
           nombre: 'Yuly Andrea Rey Quiñonez',
-          cargo: 'Validadora de diseño y contenido',
-          centro: 'Centro Agroturístico - Regional Santander',
+          cargo: 'Validadora de Diseño y Contenido',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
@@ -484,17 +490,17 @@ export default {
         {
           nombre: 'Yineth Ibette Gonzalez Quintero',
           cargo: 'Validadora de Recursos Educativos Digitales',
-          centro: 'Centro Agroturístico - Regional Santander',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
         {
           nombre: 'Laura Paola Gelvez Manosalva',
           cargo: 'Validadora de Recursos Educativos Digitales',
-          centro: 'Centro Agroturístico - Regional Santander',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
         {
           nombre: 'Erika Fernanda Mejía Pinzón',
-          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
-          centro: 'Centro Agroturístico - Regional Santander',
+          cargo: 'Evaluadora Para Contenidos Inclusivos y Accesibles',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
