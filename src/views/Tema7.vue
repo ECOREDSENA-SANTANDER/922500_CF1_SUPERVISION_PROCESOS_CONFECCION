@@ -299,8 +299,7 @@
               p La norma tiene como objetivo garantizar las condiciones de seguridad de los trabajadores y conservación del medio ambiente en todos los lugares donde desarrollen sus actividades. Establece la responsabilidad del titular de la industria fomentando la participación del personal, la capacitación y las obligaciones de los trabajadores. 
               p Asimismo, establece consideraciones técnicas de seguridad para locales y establecimientos industriales, como normas sobre prevención y protección contra incendios, maquinarias, equipo eléctrico, herramientas, calderos de vapor, transporte de materiales, sustancias peligrosas, radiaciones peligrosas, mantenimiento, reparación y equipo de protección personal.
 
-              p Fuente: (https://www.minambiente.gov.co/index.php/asuntos-ambientales-sectorial-y-urbana/gestion-del-aire/emisiones-contaminantes).
-
+              p Fuente: (https://www.freepik.com/free-vector/pollution-concept-background-flat-style_4946210.htm#fromView=search&page=1&position=27&uuid=df8d55d4-15a1-4faf-8881-3ab3035c84f1)
           .row.justify-content-center.align-items-center(titulo="Decreto 1713 de 2002")
             .col-md-3
               figure
@@ -310,18 +309,18 @@
               h5 Residuos sólidos 
               p Colombia cuenta con unas legislaciones muy desarrolladas, con unas normas  bien constituidas basadas en la conservación y mitigación de los recursos naturales y su impacto en el medio ambiente. 
 
-              p Fuente: (http://www.pasocierto.com.br/assets/dd22-co_legislaci%C3%B3n-municipal_colombia.pdf).
+              p Fuente: (https://www.freepik.com/free-vector/organic-flat-printing-industry-illustration_13184958.htm#fromView=search&page=1&position=4&uuid=770c9787-b373-4eda-8fc3-6066722a095e).
 
           .row.justify-content-center.align-items-center(titulo="Resolución 0631 de 2015 reglamenta el artículo 28 del Decreto 3930 de 2010 y actualiza el Decreto 1594 de 1984")
-            .col-md-3
+            .col-md-2.mx-0.px-0
               figure
                 img.my-3(src='@/assets/curso/Tema7/17.svg', alt='Resolución 0631 de 2015 reglamenta el artículo 28 del Decreto 3930 de 2010 y actualiza el Decreto 1594 de 1984') 
         
-            .col-md-6.mb-4.mb-md-0
+            .col-md-10.mb-4.mb-md-0
               h5 Vertimiento de aguas y aceites contaminantes 
               p El agua es primordial para todas las actividades económicas y para el consumo humano, mayormente para esos aspectos se utiliza agua dulce, por lo que es necesario conservarla, restaurarla y protegerla.
 
-              p Fuente: (https://www.minambiente.gov.co/images/normativa/app/resoluciones/f8-Resoluci%C3%B3n%20415%20de%201998%20-%20Aceites%20Usados.pdf.).
+              p.w-75 Fuente: (https://t4.ftcdn.net/jpg/04/68/06/01/240_F_468060123_8xzKudR0F25wNyV5PVD1Qd0oDgxLo0WK.jpg).
               p (http://www.ideam.gov.co/documents/24024/36843/Dec_1594_1984.pdf/aacbcd5d-fed8-4273-9db7-221d291b657f).  
           .row.justify-content-center.align-items-center(titulo="Normatividad Ambiental - Salud")
             .col-md-3
@@ -343,7 +342,7 @@
               h5 Economía circular 
               p Colombia introduce con la Estrategia Nacional de Economía Circular nuevos elementos para fortalecer el modelo de desarrollo económico, ambiental y social del país, a partir de la lógica de “producir conservando y conservar produciendo”. En línea con los fundamentos del desarrollo sostenible y tendencias internacionales, con la estrategia se promueve la eficiencia en el uso de materiales, agua y energía, teniendo en cuenta la capacidad de recuperación de los ecosistemas y el uso circular de los flujos de materiales.
 
-              p Fuente:(https://www.minambiente.gov.co/index.php/estrategia-nacional-de-economia-circular-ec).
+              p Fuente:(https://www.freepik.com/free-vector/hand-drawn-sustainable-fashion-concept_11906246.htm#fromView=search&page=1&position=8&uuid=d958b0c3-740b-4efe-bda1-d46dc589604e).
 
     Separador
     .titulo-segundo.color-acento-botones#t_7_3
