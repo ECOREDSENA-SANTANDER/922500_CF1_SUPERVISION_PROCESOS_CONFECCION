@@ -21,8 +21,8 @@
     .row.justify-content-center.align-items-center.mt-5.mb-5
       .col-lg-8
         .BorTit.mt-5  #[b Figura 5.]  Estructura del Sistema de Producción.
-        img.img-t.img-a.mt-4.d-none.d-lg-block(src='@/assets/curso/Tema2/1.svg', alt='La imagen muestra la estructura del sistema de producción de una empresa, compuesta por varias subáreas: sub-comercial, sub-inversión, sub-información, sub-recursos humanos y sub-dirección. Todas estas subáreas están interconectadas con la sub-producción, que se encuentra en el centro del esquema.') 
-        img.img-t.img-a.mt-4.d-block.d-lg-none(src='@/assets/curso/Tema2/5.svg', alt='La imagen muestra la estructura del sistema de producción de una empresa, compuesta por varias subáreas: sub-comercial, sub-inversión, sub-información, sub-recursos humanos y sub-dirección. Todas estas subáreas están interconectadas con la sub-producción, que se encuentra en el centro del esquema.')  
+        img.img-t.img-a.mt-4.d-none.d-lg-block(src='@/assets/curso/Tema2/1.svg', alt='La imagen presenta la estructura del sistema de producción de una empresa, compuesta por varias subáreas: sub-comercial, sub-inversión, sub-información, sub-recursos humanos y sub-dirección. Todas estas subáreas están interconectadas con la sub-producción, que se encuentra en el centro del esquema.') 
+        img.img-t.img-a.mt-4.d-block.d-lg-none(src='@/assets/curso/Tema2/5.svg', alt='La imagen presenta la estructura del sistema de producción de una empresa, compuesta por varias subáreas: sub-comercial, sub-inversión, sub-información, sub-recursos humanos y sub-dirección. Todas estas subáreas están interconectadas con la sub-producción, que se encuentra en el centro del esquema.')  
     
 
     .tarjeta.bg6.py-4.mb-5

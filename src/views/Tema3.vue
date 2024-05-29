@@ -19,7 +19,7 @@
             h3.text-regular  Los modelos se estructuran según la realidad y la abstracción, y estos factores permiten desde un problema presentado en la realidad, permite que la abstracción simule por medio de una formulación la proyección de modelos que serán verificados en la realidad. 
             i.fas.fa-quote-right
           .bloque-texto-d__autor 
-            .h5.mb-0 NAHMIAS, 1999
+            .h5.mb-0 NAHMIAS, 1999.
          
 
     .tarjeta.row.mb-5
@@ -30,8 +30,8 @@
       .row.justify-content-center.align-items-center(data-aos="left")
         .col-lg-8
           .BorTit  #[b Figura 7.]  Modelos de sistemas de producción.
-          img.img-t.img-a.mt-4.d-none.d-lg-block(src='@/assets/curso/Tema3/1.svg', alt='La imagen ilustra los modelos de sistemas de producción, divididos en dos partes: realidad y abstracción. En la parte de realidad, se identifican problemas y se recopilan datos. Estos datos se utilizan para crear modelos que luego se verifican. En la parte de abstracción, los modelos se desarrollan a través de formulación, manipulación, evaluación y pronóstico. A la derecha, una ilustración muestra personas trabajando en un entorno de producción con equipos y datos.')   
-          img.img-t.img-a.mt-4.d-block.d-lg-none(src='@/assets/curso/Tema3/3.svg', alt='La imagen ilustra los modelos de sistemas de producción, divididos en dos partes: realidad y abstracción. En la parte de realidad, se identifican problemas y se recopilan datos. Estos datos se utilizan para crear modelos que luego se verifican. En la parte de abstracción, los modelos se desarrollan a través de formulación, manipulación, evaluación y pronóstico. A la derecha, una ilustración muestra personas trabajando en un entorno de producción con equipos y datos.')   
+          img.img-t.img-a.mt-4.d-none.d-lg-block(src='@/assets/curso/Tema3/1.svg', alt='La imagen ilustra los modelos de sistemas de producción, divididos en dos partes: realidad y abstracción. En la parte de realidad, se identifican problemas y se recopilan datos. Estos datos se utilizan para crear modelos que luego se verifican. En la parte de abstracción, los modelos se desarrollan a través de formulación, manipulación, evaluación y pronóstico. A la derecha, una ilustración presenta personas trabajando en un entorno de producción con equipos y datos.')   
+          img.img-t.img-a.mt-4.d-block.d-lg-none(src='@/assets/curso/Tema3/3.svg', alt='La imagen ilustra los modelos de sistemas de producción, divididos en dos partes: realidad y abstracción. En la parte de realidad, se identifican problemas y se recopilan datos. Estos datos se utilizan para crear modelos que luego se verifican. En la parte de abstracción, los modelos se desarrollan a través de formulación, manipulación, evaluación y pronóstico. A la derecha, una ilustración presenta personas trabajando en un entorno de producción con equipos y datos.')   
           
 
     Separador
@@ -50,7 +50,7 @@
             h3.text-regular A través del uso de modelos es como se identifican posibles soluciones, teniendo en cuenta la magnitud o dificultad de un determinado problema, por consiguiente, al definir en qué radica el dicho problema es cómo se reconocen los tipos de modelos que se ajustan mejor a la situación planteada.
             i.fas.fa-quote-right
           .bloque-texto-d__autor 
-            .h5.mb-0 NAHMIAS, 1999
+            .h5.mb-0 NAHMIAS, 1999.
 
            
 

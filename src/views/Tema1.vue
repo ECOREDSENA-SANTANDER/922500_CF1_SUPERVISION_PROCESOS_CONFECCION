@@ -75,8 +75,8 @@
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-8
         .BorTit.mt-5  #[b Figura 3.]  Esquema de producción.
-        img.img-t.img-a.mt-4.d-none.d-lg-block(src='@/assets/curso/Tema1/5.svg', alt='La imagen muestra un esquema de producción dividido en tres sectores: primario (industria extractiva), secundario (industria manufacturera) y terciario (comercio, servicios públicos, transporte, créditos, seguros y finanzas, turismo, y otros).')  
-        img.img-t.img-a.mt-4.d-block.d-lg-none(src='@/assets/curso/Tema1/9.svg', alt='La imagen muestra un esquema de producción dividido en tres sectores: primario (industria extractiva), secundario (industria manufacturera) y terciario (comercio, servicios públicos, transporte, créditos, seguros y finanzas, turismo, y otros).')  
+        img.img-t.img-a.mt-4.d-none.d-lg-block(src='@/assets/curso/Tema1/5.svg', alt='La imagen presenta un esquema de producción dividido en tres sectores: primario (industria extractiva), secundario (industria manufacturera) y terciario (comercio, servicios públicos, transporte, créditos, seguros y finanzas, turismo, y otros).')  
+        img.img-t.img-a.mt-4.d-block.d-lg-none(src='@/assets/curso/Tema1/9.svg', alt='La imagen presenta un esquema de producción dividido en tres sectores: primario (industria extractiva), secundario (industria manufacturera) y terciario (comercio, servicios públicos, transporte, créditos, seguros y finanzas, turismo, y otros).')  
     
     Separador
 

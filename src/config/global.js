@@ -320,7 +320,7 @@ export default {
         'la capacidad que tiene una unidad productiva para producir su máximo nivel de bienes o servicios con una serie de recursos disponibles. Para su cálculo, se toma de referencia un periodo de tiempo determinado.',
     },
     {
-      termino: 'Costos ',
+      termino: 'Costos',
       significado:
         'son aquellos que influyen directamente en la producción o fabricación de un producto o servicio e influirá en el precio final del mismo.',
     },
@@ -335,7 +335,7 @@ export default {
         'es todo evento no deseado ni esperado que ocasiona una pérdida.',
     },
     {
-      termino: 'MTM',
+      termino: '<i>MTM</i>',
       significado:
         'es el acrónimo en inglés de <i>Methods Time Measurement</i>, es decir, Medida del Tiempo de los Métodos. En el contexto del estudio del trabajo los sistemas de tiempos predeterminados se definen como procedimientos que permiten calcular tiempos teóricos de ejecución de actividades totalmente influenciables por el hombre.',
     },
@@ -446,7 +446,7 @@ export default {
             'Regional Antioquia – Centro de Formación en Diseño, Confección y Moda',
         },
         {
-          nombre: 'Maria Camila Alvarez Trujillo',
+          nombre: 'María Camila Alvarez Trujillo',
           cargo: 'Diseñadora Curricular',
           centro:
             'Regional Antioquia – Centro de Formación en Diseño, Confección y Moda',
@@ -469,7 +469,7 @@ export default {
       autores: [
         {
           nombre: 'Yazmin Figueroa Pacheco',
-          cargo: 'Diseñadora Web',
+          cargo: 'Diseñadora de Contenidos Digitales',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
@@ -480,6 +480,11 @@ export default {
         {
           nombre: 'Yuly Andrea Rey Quiñonez',
           cargo: 'Validadora de Diseño y Contenido',
+          centro: 'Regional Santander - Centro Agroturístico',
+        },
+        {
+          nombre: 'María Alejandra Vera Briceño',
+          cargo: 'Animadora y Productora Multimedia',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],

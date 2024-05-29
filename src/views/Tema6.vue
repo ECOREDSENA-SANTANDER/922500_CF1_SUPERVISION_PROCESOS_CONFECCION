@@ -17,7 +17,7 @@
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-10
         .BorTit  #[b Figura 11.]  Orden de producción camiseta tipo polo dama. Fuente: SENA 2021, Fernellis Mauricio Echeverry.
-        img.img-t.img-a.mt-4(src='@/assets/curso/Tema6/2.svg', alt='La imagen muestra una orden de producción para camisetas tipo polo dama, expedida el 26 de marzo de 2021 con destino a Almacenes ABC. Detalla la producción de 2469 unidades y lista los materiales necesarios, como tela, botones y hilo, junto con sus cantidades y costos.') 
+        img.img-t.img-a.mt-4(src='@/assets/curso/Tema6/2.svg', alt='La imagen presenta una orden de producción para camisetas tipo polo dama, expedida el 26 de marzo de 2021 con destino a Almacenes ABC. Detalla la producción de 2469 unidades y lista los materiales necesarios, como tela, botones y hilo, junto con sus cantidades y costos.') 
 
     
 
@@ -67,9 +67,9 @@
         img(src="@/assets/curso/Tema6/11.png")
       .col-sm-12.col-lg-8.m-1.p-All-cus
         .p-All-cus.mb-5.bg8
-            p.mb-3 La hoja de ruta en confección es un documento que muestra el tiempo que toma cada fase del proceso productivo, en este punto es importante identificar cada fase y su respectivo tiempo de desarrollo en días, ya que el orden del proceso es crucial, por ejemplo: trazo, corte de piezas, realización de contra muestra, confección y terminación.
+            p.mb-3 La hoja de ruta en confección es un documento que presenta el tiempo que toma cada fase del proceso productivo, en este punto es importante identificar cada fase y su respectivo tiempo de desarrollo en días, ya que el orden del proceso es crucial, por ejemplo: trazo, corte de piezas, realización de contra muestra, confección y terminación.
             p.mb-3 La hoja de ruta ayuda a identificar la trazabilidad del producto.
-            p La siguiente tabla muestra las definiciones del tiempo aproximado de cada proceso plasmado en una hoja de ruta.
+            p La siguiente tabla presenta las definiciones del tiempo aproximado de cada proceso plasmado en una hoja de ruta.
 
     .row.justify-content-center.align-items-center.mt-5.mb-5
       .col-lg-8
@@ -77,7 +77,7 @@
         .tabla-b.mt-4
           .tabla-b__header.bg-table
             h5.mb-0.text-color Hoja de Ruta
-          table(alt='La imagen muestra una "Hoja de Ruta" titulada "Figura 12. Hoja de Ruta. Fuente: SENA 2021, Fernellis Mauricio Echeverry." Presenta una tabla con cuatro etapas del proceso de producción de camisetas tipo polo dama, cada una con su duración en días: 1. Diseño - 1 día, 2. Patronaje - 1 día, 3. Tiempos de reposo de las telas - 2 días, 4. Extendido de la tela - 1 día')
+          table(alt='La imagen muestra una hoja de ruta para la producción de camisetas tipo polo dama, con cuatro etapas: diseño(1 día), patronaje(1 día), reposo de las telas(2 días) y extentido de la tela(1 día).')
             tr.celda-oscura
               th.text-center 
                 h4 Orden
@@ -102,7 +102,7 @@
               th Extendido de la tela
               th.text-center 
                 
-    p.mb-4 A continuación, en el siguiente video a partir de las imágenes tomadas del sitio web Lafayette Sports, se observan los procesos de la empresa que intervienen en la construcción de una prenda de vestir, la cual hace parte del desarrollo del proceso productivo y también de la hoja de ruta. 
+    p.mb-4 A continuación, en el siguiente video a partir de las imágenes tomadas del sitio web Lafayette Sports, se presenta los procesos de la empresa que intervienen en la construcción de una prenda de vestir, la cual hace parte del desarrollo del proceso productivo y también de la hoja de ruta. 
                                         
 
     .row.justify-content-center.align-items-center.mb-5
@@ -154,12 +154,12 @@
             h3.text-regular Es un documento escrito (Gráfico), en la cual se registran todas las características técnicas del producto prenda, es el documento que registra todos los procesos de fabricación considerando información relevante desde que nace el requerimiento del cliente (Spec) o idea propia, siguiendo por la fase de desarrollo, producción y despacho.
             i.fas.fa-quote-right
           .bloque-texto-d__autor 
-            .h5.mb-0 Huertas (2019, p. 54)
+            .h5.mb-0 Huertas (2019, p. 54).
           
 
 
     p.mb-4 Los componentes de una ficha técnica en el desarrollo del formato no son fijos y se definirán de acuerdo a las necesidades puntuales de cada empresa, sin embargo, todas las fichas tienen encabezado, en este apartado se encuentra información importante como: la descripción de la prenda, código del producto, diseñador, tipo de colección, fechas, nombre de la colección, autor del diseño, descripción detallada del diseño, a quien va dirigido, material textil, colores del material textil, tallas a realizar, accesorios.
-    p En resumen, la ficha técnica se compone de varios elementos, en los que se muestra cada una de las fases que se desarrollan en la producción o el prototipo inicial y son las siguientes:
+    p En resumen, la ficha técnica se compone de varios elementos, en los que se presenta cada una de las fases que se desarrollan en la producción o el prototipo inicial y son las siguientes:
 
     .row.justify-content-center.align-items-center.mt-5.mb-5
       .col-12.col-md-3.mb-5.mb-md-0
@@ -199,7 +199,7 @@
     p.mb-3 El consumo de materiales se define como los elementos que se utilizan en la producción de prendas de vestir los cuales de acuerdo con el diseño tienen unas cantidades específicas de uso. Por un lado, conocer los consumos y costos de materiales de una empresa conlleva a manejar los recursos con mayor responsabilidad, por ello, se hace indispensable identificar los consumos y los costos de materiales utilizados en el proceso, estos consumos se miden en unidad de medida, ubicación, valor matriz con código empresa, cantidad, talla, además del valor de los materiales e insumos con los cuales se desarrolla la producción.
 
     .row.cajon.color-secundario.p-4.mt-5.mb-5
-      p.mb-0 De igual manera, en una empresa se puede realizar el consumo por prendas de insumos, materiales y los costos de la fabricación por prenda, también el consumo de material (Tela), sesgos e insumos, a través de tablas de Excel. De esta forma, se recuerda la empresa COATS CADENA que desde hace años facilita una plantilla en Excel y el software denominado SEAMWORKS para el correcto cálculo de hilo en la producción de prendas de vestir.
+      p.mb-0 De igual manera, en una empresa se puede realizar el consumo por prendas de insumos, materiales y los costos de la fabricación por prenda, también el consumo de material (Tela), sesgos e insumos, a través de tablas de Excel. De esta forma, se recuerda la empresa #[i COATS  CADENA] que desde hace años facilita una plantilla en Excel y el #[i software] denominado #[i SEAMWORKS] para el correcto cálculo de hilo en la producción de prendas de vestir.
 
 
 

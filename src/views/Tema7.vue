@@ -117,7 +117,7 @@
       .col-lg-6
         .BorTit  #[b Figura 13.]  Etapas de sistema de gestión de calidad en salud. Fuente: SENA 2021, Fernellis Mauricio Echeverry.
 
-        img.img-t.img-a.mt-4(src='@/assets/curso/Tema7/7.svg', alt='La imagen muestra las etapas de un sistema de gestión de calidad en salud, que incluyen "Incidente," "Detener el proceso," "Accidente," y "Casi Accidente."')  
+        img.img-t.img-a.mt-4(src='@/assets/curso/Tema7/7.svg', alt='La imagen presenta las etapas de un sistema de gestión de calidad en salud, que incluyen "Incidente," "Detener el proceso," "Accidente," y "Casi Accidente."')  
     
     Separador
 

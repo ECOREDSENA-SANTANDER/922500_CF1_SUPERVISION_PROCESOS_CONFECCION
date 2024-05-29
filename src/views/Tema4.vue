@@ -25,7 +25,7 @@
       SlyderA
         .row.justify-content-center.align-items-center
           .col-md-5.my-2.mb-md-0
-            p Un sistema de producción se define como un proceso organizado y secuencial que abarca desde el tratamiento de la materia prima hasta la obtención del producto final, sin dejar vacíos. Este tipo de sistema se distingue por su operación continua y repetitiva, como se observa en empresas como refinerías o fábricas de electrodomésticos.
+            p Un sistema de producción se define como un proceso organizado y secuencial que abarca desde el tratamiento de la materia prima hasta la obtención del producto final, sin dejar vacíos. Este tipo de sistema se distingue por su operación continua y repetitiva, como se exponen en empresas como refinerías o fábricas de electrodomésticos.
         
           .col-md-5
             figure
@@ -58,7 +58,7 @@
         .row.justify-content-center.align-items-center
           .col-12
             figure
-              img(src='@/assets/curso/Tema4/12.png', alt='Muestra un flujo de trabajo en una línea de producción. El proceso comienza con "Materia prima," que pasa por un "Torno," luego a una "Prensa," y finalmente a un "Cepillo." A partir del cepillo, los productos van al "Embalaje" antes de convertirse en el "Producto acabado." El flujo está representado por flechas que indican la dirección del proceso. Al fondo, hay una cinta transportadora que sugiere el movimiento continuo de los materiales a través de estas etapas.') 
+              img(src='@/assets/curso/Tema4/12.png', alt='presenta un flujo de trabajo en una línea de producción. El proceso comienza con "Materia prima," que pasa por un "Torno," luego a una "Prensa," y finalmente a un "Cepillo." A partir del cepillo, los productos van al "Embalaje" antes de convertirse en el "Producto acabado." El flujo está representado por flechas que indican la dirección del proceso. Al fondo, hay una cinta transportadora que sugiere el movimiento continuo de los materiales a través de estas etapas.') 
 
 
     Separador    
@@ -74,7 +74,7 @@
             h3.text-regular Dentro de los sistemas de producción por celdas, el trabajo en equipo es fundamental, donde se integran tanto máquinas como talento humano para llevar a cabo una serie de operaciones. Esta distribución facilita el desarrollo de las relaciones profesionales, poniendo a prueba la experticia de los operadores, lo que se traduce en una polivalencia. Este tipo de sistema reduce los periodos de trabajo en la fabricación y preparación, lo que optimiza la supervisión y facilita el control visual.
             i.fas.fa-quote-right
           .bloque-texto-d__autor 
-            .h5.mb-0 Sekine, 1993
+            .h5.mb-0 Sekine, 1993.
       
     p.mt-5 Para una distribución eficiente en la creación de celdas, es crucial considerar la selección de las familias de productos, la definición de las celdas y el establecimiento de su secuencia. Sin embargo, es importante tener en cuenta que esta organización puede incrementar el tiempo de inactividad de las máquinas, ya que estas se concentran en las tareas de la celda y es probable que no se utilicen de forma continua e ininterrumpida. 
 
