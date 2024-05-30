@@ -290,9 +290,9 @@
               p Fuente: (https://www.nueva-iso-14001.com/pdfs/FDIS-14001.pdf.).
 
           .row.justify-content-center.align-items-center(titulo="Ley 1972 de 2019")
-            .col-md-3
+            .col-md-6
               figure
-                img.my-3(src='@/assets/curso/Tema7/15.svg', alt='Ley 1972 de 2019') 
+                img.my-3(src='@/assets/curso/Tema7/33.png', alt='Ley 1972 de 2019') 
         
             .col-md-6.mb-4.mb-md-0
               h5 Emisión de gases contaminantes 
@@ -301,9 +301,9 @@
 
               p Fuente: (https://www.freepik.com/free-vector/pollution-concept-background-flat-style_4946210.htm#fromView=search&page=1&position=27&uuid=df8d55d4-15a1-4faf-8881-3ab3035c84f1)
           .row.justify-content-center.align-items-center(titulo="Decreto 1713 de 2002")
-            .col-md-3
+            .col-md-4
               figure
-                img.my-3(src='@/assets/curso/Tema7/16.svg', alt='Decreto 1713 de 2002') 
+                img.my-3(src='@/assets/curso/Tema7/34.png', alt='Decreto 1713 de 2002') 
         
             .col-md-6.mb-4.mb-md-0
               h5 Residuos sólidos 
@@ -314,7 +314,7 @@
           .row.justify-content-center.align-items-center(titulo="Resolución 0631 de 2015 reglamenta el artículo 28 del Decreto 3930 de 2010 y actualiza el Decreto 1594 de 1984")
             .col-md-2.mx-0.px-0
               figure
-                img.my-3(src='@/assets/curso/Tema7/17.svg', alt='Resolución 0631 de 2015 reglamenta el artículo 28 del Decreto 3930 de 2010 y actualiza el Decreto 1594 de 1984') 
+                img.my-3(src='@/assets/curso/Tema7/35.png', alt='Resolución 0631 de 2015 reglamenta el artículo 28 del Decreto 3930 de 2010 y actualiza el Decreto 1594 de 1984') 
         
             .col-md-10.mb-4.mb-md-0
               h5 Vertimiento de aguas y aceites contaminantes 
@@ -336,7 +336,7 @@
           .row.justify-content-center.align-items-center(titulo="Normatividad Ambiental - Economía")
             .col-md-3
               figure
-                img.my-3(src='@/assets/curso/Tema7/19.svg', alt='Normatividad Ambiental - Economía') 
+                img.my-3(src='@/assets/curso/Tema7/36.png', alt='Normatividad Ambiental - Economía') 
         
             .col-md-6.mb-4.mb-md-0
               h5 Economía circular 
