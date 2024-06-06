@@ -7,12 +7,12 @@
         span.numero 7
       h1.text-in Sistemas de gestión de calidad
     .tarjeta.row.mb-5.bg7
-      .tarjeta.py-5.mb-1
+      .tarjeta.pt-5.mb-1
         .row.ml-1-cus
           .col-12
             p.mb-4 El sistema de gestión profundizado en la calidad plantea herramientas que permite a las organizaciones planear, implementar, controlar y realizar seguimientos a las actividades de la organización empresarial a través de estándares de calidad, lo cual dicha información proporciona desarrolla indicadores de alerta o normalidad de los procesos.
             
-            .row.justify-content-center.align-items-center.mb-5
+            .row.justify-content-center.align-items-center
               .col-lg-6(data-aos="fade-left")
 
                 p.mb-4 Los objetivos de aprendizaje con que se desarrollan los sistemas de gestión de calidad son los siguientes:
@@ -43,7 +43,7 @@
                 img.img-t.img-a.my-2(src='@/assets/curso/Tema7/1.png', alt='') 
 
 
-    .row.justify-content-center.align-items-stretch.mt-5.mb-5
+    .row.justify-content-center.align-items-stretch.mb-5
       .col-12.cuadro-gestion.p-4
           p.mb-2 Por otro lado, el manejo del riesgo es un proceso que está definido de manera secuencial, monitoreando el control de riesgo interno de los diversos cargos laborales de la organización. De esta forma, se ha diseñado diversas estrategias que proporcionan metodologías a procesos de trabajo, bien sea de procesos manufacturados como procesos de prestación de servicio, siempre en pro de evaluar las mejores prácticas de trabajo basados en la mejora continua.
     
@@ -299,7 +299,7 @@
               p La norma tiene como objetivo garantizar las condiciones de seguridad de los trabajadores y conservación del medio ambiente en todos los lugares donde desarrollen sus actividades. Establece la responsabilidad del titular de la industria fomentando la participación del personal, la capacitación y las obligaciones de los trabajadores. 
               p Asimismo, establece consideraciones técnicas de seguridad para locales y establecimientos industriales, como normas sobre prevención y protección contra incendios, maquinarias, equipo eléctrico, herramientas, calderos de vapor, transporte de materiales, sustancias peligrosas, radiaciones peligrosas, mantenimiento, reparación y equipo de protección personal.
 
-              p Fuente: (https://www.freepik.com/free-vector/pollution-concept-background-flat-style_4946210.htm#fromView=search&page=1&position=27&uuid=df8d55d4-15a1-4faf-8881-3ab3035c84f1)
+              p Fuente: https://www.freepik.com
           .row.justify-content-center.align-items-center(titulo="Decreto 1713 de 2002")
             .col-md-4
               figure
@@ -309,7 +309,7 @@
               h5 Residuos sólidos 
               p Colombia cuenta con unas legislaciones muy desarrolladas, con unas normas  bien constituidas basadas en la conservación y mitigación de los recursos naturales y su impacto en el medio ambiente. 
 
-              p Fuente: (https://www.freepik.com/free-vector/organic-flat-printing-industry-illustration_13184958.htm#fromView=search&page=1&position=4&uuid=770c9787-b373-4eda-8fc3-6066722a095e).
+              p Fuente: https://www.freepik.com
 
           .row.justify-content-center.align-items-center(titulo="Resolución 0631 de 2015 reglamenta el artículo 28 del Decreto 3930 de 2010 y actualiza el Decreto 1594 de 1984")
             .col-md-2.mx-0.px-0
@@ -342,8 +342,7 @@
               h5 Economía circular 
               p Colombia introduce con la Estrategia Nacional de Economía Circular nuevos elementos para fortalecer el modelo de desarrollo económico, ambiental y social del país, a partir de la lógica de “producir conservando y conservar produciendo”. En línea con los fundamentos del desarrollo sostenible y tendencias internacionales, con la estrategia se promueve la eficiencia en el uso de materiales, agua y energía, teniendo en cuenta la capacidad de recuperación de los ecosistemas y el uso circular de los flujos de materiales.
 
-              p Fuente:(https://www.freepik.com/free-vector/hand-drawn-sustainable-fashion-concept_11906246.htm#fromView=search&page=1&position=8&uuid=d958b0c3-740b-4efe-bda1-d46dc589604e).
-
+              p Fuente: https://www.freepik.com
     Separador
     .titulo-segundo.color-acento-botones#t_7_3
       .h4 7.3 Ambientales para plantas de confección    
@@ -372,7 +371,7 @@
         .row.justify-content-center.pt-5
           .col-md-5.my-2.mb-md-0
               h2.titulo-caracteristicas Visión ambiental por sectores
-              p La visión ambiental sectorizada construye de manera participativa y consensuada planes de trabajo a corto, mediano y largo plazo; a partir de un diagnostico estratégico, que permite definir objetivos, optimizando y mejorando estrategias optimas de trabajo dentro de los sectores textiles y confeccionistas. 
+              p La visión ambiental sectorizada construye de manera participativa y consensuada planes de trabajo a corto, mediano y largo plazo; a partir de un diagnóstico estratégico, que permite definir objetivos, optimizando y mejorando estrategias optimas de trabajo dentro de los sectores textiles y confeccionistas. 
 
 
           .col-md-5

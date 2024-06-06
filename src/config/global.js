@@ -236,11 +236,11 @@ export default {
   referencias: [
     {
       referencia:
-        'Ananth, I., Seshadri, S., & Vasher, R. (2010). Administración de la cadena de suministro Toyota. México: Mc Grow Hill.',
+        'Ananth, I., Seshadri, S., & Vasher, R. (2010). Administración de la cadena de suministro Toyota. México: McGraw Hill.',
     },
     {
       referencia:
-        'Bonilla Pastor, E. (2007). Diseño de un sistema de producción modular en una mediana empresa de confecciones. Lima, Perú: Fondoeditorial@ulima.edu.pe.',
+        'Bonilla-Pastor, E. (2007). Diseño de un sistema de producción modular en una mediana empresa de confecciones. Ingeniería Industrial, 25(025), 11-32. https://doi.org/10.26439/ing.ind2007.n025.607',
     },
     {
       referencia:
@@ -479,7 +479,7 @@ export default {
         },
         {
           nombre: 'Lizeth Karina Manchego Suarez',
-          cargo: 'Desarrolladora Full-Stack',
+          cargo: 'Desarrolladora <i>Full-Stack</i>',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {

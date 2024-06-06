@@ -85,7 +85,7 @@
       .h4.text-in 1.3 Objetivo de la producción
 
 
-    p.mb-1 De acuerdo con Nahmias (1999), las actividades llevadas a cabo en la producción con relación a las operaciones en una empresa significan el aprovechamiento al máximo del valor creado. Es decir, el valor de los inputs y la diferencia de valor de los outputs representa el valor desarrollado por medio de las actividades de producción. 
+    p.mb-1 De acuerdo con NAHMIAS (1999), las actividades llevadas a cabo en la producción con relación a las operaciones en una empresa significan el aprovechamiento al máximo del valor creado. Es decir, el valor de los inputs y la diferencia de valor de los outputs representa el valor desarrollado por medio de las actividades de producción. 
     p Por lo tanto, esta interacción se establece de manera continua desde los insumos, el proceso de conversión y los productos generados que pueden estar representados en bienes o servicios, lo que a su vez continúa en una constante retroalimentación.
 
     .tarjeta.row.mb-5
