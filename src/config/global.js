@@ -240,7 +240,8 @@ export default {
     },
     {
       referencia:
-        'Bonilla-Pastor, E. (2007). Diseño de un sistema de producción modular en una mediana empresa de confecciones. Ingeniería Industrial, 25(025), 11-32. https://doi.org/10.26439/ing.ind2007.n025.607',
+        'Bonilla-Pastor, E. (2007). Diseño de un sistema de producción modular en una mediana empresa de confecciones. Ingeniería Industrial, 25(025), 11-32.',
+      link: 'https://doi.org/10.26439/ing.ind2007.n025.607',
     },
     {
       referencia:
